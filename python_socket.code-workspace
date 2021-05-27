@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths" :["./server", "./client", "./server/_cmd_"]
+	}
+}

@@ -1,37 +1,21 @@
-import socket,select, sys, time
-from connection import Connection
+from connection_handler import conn
+from make_authentication import authenticate
+import time
+CONNECTED = True
+is_authenticated = False
+has_id = False
+sended_time = time.time()
 
-ADDR = (socket.gethostbyname(socket.gethostname()), 5051)
-FORMAT = 'utf-8'
-HEADER = 64
-
-class HandleConnection():
-    def __init__(self,connection):
-        self.server = connection
-    
-    def run(self):
-        global CONNECTION
-        socket_list = [self.server.server]
-        read_socket, write_socket, error = select.select(socket_list,[],socket_list,0.5)
-        for socket in read_socket:
-            if socket is self.server.server:
-                msg = socket.recv(10).decode(FORMAT)
-                if msg == '':
-                    socket.close()
-                    CONNECTION = False
-                print(msg)
-            
-        # self.on_read()
-        # print(write_socket)
-    
-    def on_read(self):
-        msg = sys.stdin.readline()
-        if msg:
-            self.server.send(msg.encode(FORMAT))
-
-conn = Connection()
-input = HandleConnection(conn)
-
-CONNECTION = True
-while CONNECTION:
-    input.run()
+while CONNECTED:
+    C = conn.run()
+    if C is False:
+        CONNECTED = C
+    if not is_authenticated:
+        if not has_id:
+            if time.time() > sended_time:   
+                send_id = authenticate() #return false if authenticated
+                if send_id is True:
+                    sended_time = time.time() + 3
+                    print(sended_time)
+                elif send_id is False:
+                    is_authenticated = True           

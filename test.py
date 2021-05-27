@@ -1,3 +1,9 @@
-msg = "hellow"
 
-print((msg).encode('utf-8'))
+from test2 import name
+
+print(name)
+
+from test1 import set_name
+set_name()
+
+print(name)

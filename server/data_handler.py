@@ -1,21 +1,25 @@
+from _cmd_.command_checker import cmd_check
+
 HEADER = 64
 FORMAT = 'utf-8'
 class DataHandler:
-    def __init__(self):
-        pass
-    @staticmethod
-    def receive_data(socket):
-        data = socket.recv(HEADER).decode(FORMAT)
+    def __init__(self,socket):
+        self.socket = socket
+
+    def receive_data(self):
+        data = self.socket.recv(HEADER).decode(FORMAT)
         if data:
+            data = data.strip('|')
             buffer_size = int(data)
-            data = socket.recv(buffer_size).decode(FORMAT)
+            data = self.socket.recv(buffer_size).decode(FORMAT)
+            cmd_check(data)
         return data
-    @staticmethod
-    def send_data(socket, msg):
-        msg = DataHandler.set_header(msg)
-        socket.send(msg)
-    @staticmethod
-    def set_header(msg):
+
+    def send_data(self, msg):
+        msg = self.set_header(msg)
+        self.socket.send(msg)
+
+    def set_header(self,msg):
         val_len = len(str(len(msg)))
         length = str(len(msg)).encode(FORMAT)
         new_value = length + b' ' * (HEADER - val_len-1) + b'|' + msg.encode(FORMAT)
