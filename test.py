@@ -1,9 +1,11 @@
+import threading
 
-from test2 import name
+def ok():
+    connected = True
+    while connected:
+        pass
+    print("thread stoped")
 
-print(name)
-
-from test1 import set_name
-set_name()
-
-print(name)
+x = threading.Thread(target=ok)
+x.start()
+print(getattr(x))

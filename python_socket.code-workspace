@@ -5,6 +5,11 @@
 		}
 	],
 	"settings": {
-		"python.analysis.extraPaths" :["./server", "./client", "./server/_cmd_"]
+		"python.analysis.extraPaths" :[
+			"./server", "./client",
+			"./server/_cmd_",
+			"./server/web_socket_handler",
+			"./server/front_connection_handler"
+		]
 	}
 }

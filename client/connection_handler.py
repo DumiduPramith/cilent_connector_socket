@@ -16,7 +16,7 @@ class HandleConnection(DataHandler, Connection):
                 if msg == '':
                     socket.close()
                     return False
-                print(msg)
+                # print("main ", msg)
             
         # self.on_read()
         # print(write_socket)
