@@ -15,6 +15,7 @@ class DataHandler:
         if data != "":
             from socket_io_server import output        
             output(data)
+        else: return data
 
     def send_data(self, msg):
         msg = self.set_header(msg)
