@@ -7,6 +7,7 @@ def client_table():
     CREATE TABLE client (
         clientId INTEGER PRIMARY KEY AUTOINCREMENT,
         name text,
+        password text,
         last_login TIMESTAMP CURRENT_TIMESTAMP
         )
     '''

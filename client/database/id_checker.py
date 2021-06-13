@@ -4,7 +4,7 @@ database = Database()
 
 def get_user_data():
     q = '''
-    SELECT clientId, name FROM HOSTNAME
+    SELECT clientId, name FROM HostName
     '''
     return database.get_data(q)
 

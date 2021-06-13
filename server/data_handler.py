@@ -1,17 +1,22 @@
-from _cmd_.command_checker import cmd_check
+from log import set_logger
 
+ex_logger = set_logger(__name__)
 HEADER = 64
 FORMAT = 'utf-8'
 class DataHandler:
     def __init__(self,socket):
         self.socket = socket
-
     def receive_data(self):
+        from _cmd_.command_checker import cmd_check
         is_cmd = False
         data = self.socket.recv(HEADER).decode(FORMAT)
         if data:
             data = data.strip('|')
-            buffer_size = int(data)
+            try:
+                buffer_size = int(data)
+            except Exception:
+                ex_logger.exception("")
+                return ''
             data = self.socket.recv(buffer_size).decode(FORMAT)
             is_cmd = cmd_check(data)
         if not is_cmd:   

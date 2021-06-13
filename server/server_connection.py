@@ -1,12 +1,19 @@
-import socket
+import socket, sys
+from log import set_logger
+ADDR = (socket.gethostbyname(socket.gethostname()), 5050)
 
-ADDR = (socket.gethostbyname(socket.gethostname()), 5051)
+logger = set_logger(__name__)
 
 class Connection:
     def __init__(self):
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        self.server.bind(ADDR)
-        self.server.listen()
+        try:
+            self.server.bind(ADDR)
+        except Exception:
+            logger.exception()
+            sys.exit(1)
+        else:
+            self.server.listen()
         # self.server.setblocking(0)
     def fileno(self):
         return self.server.fileno()

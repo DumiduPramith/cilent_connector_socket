@@ -1,0 +1,9 @@
+env
+__pycache__
+test.py
+test1.py
+test2.py
+*.txt
+web_server
+front_connection
+requirements.txt

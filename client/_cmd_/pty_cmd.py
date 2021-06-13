@@ -8,13 +8,16 @@ def pty_connect(data):
 
 def disconnect(data):
     sid = json.loads(data)['sid']
-    fd = tabs[sid]
+    try:
+        fd = tabs[sid]
+    except: return
     for thread in thread_list:
         if int(thread.fd) == int(fd):
             thread.Connected = False
             for count, t in enumerate(thread_list):
                 if t is thread:                   
                     del thread_list[count]
+                    del tabs[sid]
                     print("thread removed")
 
 def pty_input(data):
