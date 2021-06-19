@@ -4,6 +4,8 @@ COPY . /server
 
 WORKDIR /server
 
-EXPOSE 5050
+ENV SOCKET_PORT=5050 IS_DOCKER=True
+
+EXPOSE $SOCKET_PORT
 
 CMD [ "python", "server.py" ]

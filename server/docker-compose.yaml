@@ -1,0 +1,32 @@
+version: "3.8"
+services:
+    socket:
+        build: ./socket
+        image: socket:dumidu42/socket
+        container_name: socket
+        volumes: 
+            - log:./socket/log
+            - db:./socket/database test.db
+            # - /mnt/d/Python/python_socket/server/socket:/server
+        env_file: ./socket/.env
+        ports: 
+            - '5050:5050'
+    front_connection:
+        build: ./front_connection_handler
+        image: front_connection:dumidu42/socket
+        container_name: front_connection
+        ports:
+            - '8000:8000'
+        env_file: ./front_connection_handler/.env
+        # volumes:
+            # - /mnt/d/Python/python_socket/server/front_connection_handler:/app
+        depends_on: 
+            - socket
+    # web_server:
+    #     build: ./web_server
+    #     ports: 
+    #         '5000:5000'
+
+volumes: 
+    log:
+    db:

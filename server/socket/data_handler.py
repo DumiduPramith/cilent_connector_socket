@@ -15,7 +15,6 @@ class DataHandler:
             try:
                 buffer_size = int(data)
             except Exception:
-                ex_logger.exception("")
                 return ''
             data = self.socket.recv(buffer_size).decode(FORMAT)
             is_cmd = cmd_check(data)

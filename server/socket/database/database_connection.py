@@ -2,7 +2,7 @@ import sqlite3, os
 
 class Database:
     def __init__(self):
-        self.connection = sqlite3.connect(os.path.join(os.path.dirname(os.path.dirname(__file__)),"test.db"), check_same_thread=False)
+        self.connection = sqlite3.connect(os.path.join(os.path.dirname(__file__), "test.db"), check_same_thread=False)
         self.c = self.connection.cursor()
     def __del__(self):
         self.connection.close()
