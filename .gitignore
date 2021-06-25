@@ -1,5 +1,6 @@
 env
 __pycache__
+node_modules
 test.py
 test1.py
 test2.py

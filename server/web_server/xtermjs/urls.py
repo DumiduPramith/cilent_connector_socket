@@ -1,5 +1,6 @@
 from django.urls import path
-from .views import home
+from .views import xtermjs, device_list
 urlpatterns = [
-    path('',home, name="home_page")
+    path('',device_list,name="device_list"),
+    path('xtermjs/<int:user_id>',xtermjs, name="xtermjs")
 ]

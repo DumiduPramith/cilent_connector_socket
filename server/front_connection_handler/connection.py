@@ -14,7 +14,7 @@ else:
 class Connection():
     def __init__(self):
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        print(f"connected {ADDR}")
+        # print(f"connected {ADDR}")
         self.server.connect(ADDR)
         self.server.setblocking(0)
     

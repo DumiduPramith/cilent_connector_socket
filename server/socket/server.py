@@ -1,4 +1,4 @@
-import threading, logging, sys
+import threading, sys
 from main_server_connection import Users, server
 from thread_handler import connected_devices
 from log import set_logger

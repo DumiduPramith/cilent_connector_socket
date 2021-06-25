@@ -17,9 +17,9 @@ class Read_And_Forward_pty_Output(threading.Thread):
     def run(self):
         child_pid, self.fd = pty.fork()
         tabs[self.sid] = self.fd
-        print(
-            "available terminals", tabs, "threads", threading.active_count()
-        )
+        # print(
+        #     "available terminals", tabs, "threads", threading.active_count()
+        # )
         if child_pid == 0:
             # this is the child process fork.
             # anything printed here will show up in the pty, including the output
@@ -36,7 +36,10 @@ class Read_And_Forward_pty_Output(threading.Thread):
             time.sleep(0.01)
             if self.fd:
                 timeout_sec = 0.01
-                (data_ready, _, _) = select.select([self.fd], [], [], timeout_sec)
+                try:
+                    (data_ready, _, _) = select.select([self.fd], [], [], timeout_sec)
+                except:
+                    data_ready = False
                 if data_ready:
                     output = os.read(self.fd, max_read_bytes).decode()
                     method = b'__pty_output__|'
@@ -64,7 +67,7 @@ def resize_(sid, data):
     try:
         fd = tabs[sid]
         if fd:
-            print("resize", fd, "sid", sid)
+            # print("resize", fd, "sid", sid)
             set_winsize(fd, data["rows"], data["cols"])
     except: pass
 

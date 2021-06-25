@@ -19,6 +19,7 @@ class Users(threading.Thread, DataHandler, UserData):
     def run(self):
         CONNECTED = True
         socket_list = [self.user_conn, sys.stdin]
+        self.data_handler.send_data("hellow")
         while CONNECTED:     
             read_socket, _, _ = select.select(socket_list,[],socket_list,0.5)
             for socket in read_socket:

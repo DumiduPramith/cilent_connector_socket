@@ -20,7 +20,7 @@ class Connection:
             self.server.bind(ADDR)
             print(f"binded {ADDR}")
         except Exception:
-            logger.exception("bin error")
+            logger.exception("bind error")
             sys.exit(1)
         else:
             self.server.listen()

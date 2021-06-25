@@ -18,7 +18,7 @@ def disconnect(data):
                 if t is thread:                   
                     del thread_list[count]
                     del tabs[sid]
-                    print("thread removed")
+                    # print("thread removed")
 
 def pty_input(data):
     json_data = json.loads(data)

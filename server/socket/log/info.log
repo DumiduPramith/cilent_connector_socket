@@ -1,0 +1,1858 @@
+2021-06-24 15:47:42,996:__main__:new user ('127.0.0.1', 40614) Connected
+2021-06-24 15:47:43,100:_cmd_.cmd_func:password found [id: 6]
+2021-06-24 15:47:48,868:__main__:new user ('127.0.0.1', 40618) Connected
+2021-06-24 15:47:48,869:thread_handler:user name SU set success
+2021-06-24 15:47:53,529:get_connected_devices:device list returned
+2021-06-24 15:47:53,530:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,531:get_connected_devices:device list returned
+2021-06-24 15:47:53,532:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,533:get_connected_devices:device list returned
+2021-06-24 15:47:53,534:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,535:get_connected_devices:device list returned
+2021-06-24 15:47:53,536:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,537:get_connected_devices:device list returned
+2021-06-24 15:47:53,537:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,538:get_connected_devices:device list returned
+2021-06-24 15:47:53,539:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,539:get_connected_devices:device list returned
+2021-06-24 15:47:53,540:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,541:get_connected_devices:device list returned
+2021-06-24 15:47:53,541:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,542:get_connected_devices:device list returned
+2021-06-24 15:47:53,543:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,544:get_connected_devices:device list returned
+2021-06-24 15:47:53,545:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,546:get_connected_devices:device list returned
+2021-06-24 15:47:53,547:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,547:get_connected_devices:device list returned
+2021-06-24 15:47:53,548:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,549:get_connected_devices:device list returned
+2021-06-24 15:47:53,549:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,550:get_connected_devices:device list returned
+2021-06-24 15:47:53,551:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:53,552:get_connected_devices:device list returned
+2021-06-24 15:47:53,552:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:55,431:get_connected_devices:device list returned
+2021-06-24 15:47:55,482:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:47:58,431:get_connected_devices:device list returned
+2021-06-24 15:47:58,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:01,433:get_connected_devices:device list returned
+2021-06-24 15:48:01,435:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:04,431:get_connected_devices:device list returned
+2021-06-24 15:48:04,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:07,434:get_connected_devices:device list returned
+2021-06-24 15:48:07,436:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:10,431:get_connected_devices:device list returned
+2021-06-24 15:48:10,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:12,472:get_connected_devices:device list returned
+2021-06-24 15:48:12,473:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:16,431:get_connected_devices:device list returned
+2021-06-24 15:48:16,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:19,434:get_connected_devices:device list returned
+2021-06-24 15:48:19,436:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:22,434:get_connected_devices:device list returned
+2021-06-24 15:48:22,436:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:25,432:get_connected_devices:device list returned
+2021-06-24 15:48:25,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:28,432:get_connected_devices:device list returned
+2021-06-24 15:48:28,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:31,432:get_connected_devices:device list returned
+2021-06-24 15:48:31,434:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:34,432:get_connected_devices:device list returned
+2021-06-24 15:48:34,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:37,432:get_connected_devices:device list returned
+2021-06-24 15:48:37,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:40,432:get_connected_devices:device list returned
+2021-06-24 15:48:40,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:43,448:get_connected_devices:device list returned
+2021-06-24 15:48:43,450:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:46,432:get_connected_devices:device list returned
+2021-06-24 15:48:46,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:49,431:get_connected_devices:device list returned
+2021-06-24 15:48:49,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:52,432:get_connected_devices:device list returned
+2021-06-24 15:48:52,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:55,432:get_connected_devices:device list returned
+2021-06-24 15:48:55,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:48:58,432:get_connected_devices:device list returned
+2021-06-24 15:48:58,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:01,431:get_connected_devices:device list returned
+2021-06-24 15:49:01,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:04,433:get_connected_devices:device list returned
+2021-06-24 15:49:04,435:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:07,431:get_connected_devices:device list returned
+2021-06-24 15:49:07,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:10,432:get_connected_devices:device list returned
+2021-06-24 15:49:10,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:13,431:get_connected_devices:device list returned
+2021-06-24 15:49:13,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:16,432:get_connected_devices:device list returned
+2021-06-24 15:49:16,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:19,432:get_connected_devices:device list returned
+2021-06-24 15:49:19,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:22,432:get_connected_devices:device list returned
+2021-06-24 15:49:22,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:25,434:get_connected_devices:device list returned
+2021-06-24 15:49:25,438:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:28,432:get_connected_devices:device list returned
+2021-06-24 15:49:28,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:31,431:get_connected_devices:device list returned
+2021-06-24 15:49:31,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:34,432:get_connected_devices:device list returned
+2021-06-24 15:49:34,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:37,434:get_connected_devices:device list returned
+2021-06-24 15:49:37,435:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:40,432:get_connected_devices:device list returned
+2021-06-24 15:49:40,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:43,432:get_connected_devices:device list returned
+2021-06-24 15:49:43,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:46,431:get_connected_devices:device list returned
+2021-06-24 15:49:46,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:49,431:get_connected_devices:device list returned
+2021-06-24 15:49:49,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:52,431:get_connected_devices:device list returned
+2021-06-24 15:49:52,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:55,432:get_connected_devices:device list returned
+2021-06-24 15:49:55,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:49:58,432:get_connected_devices:device list returned
+2021-06-24 15:49:58,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:01,431:get_connected_devices:device list returned
+2021-06-24 15:50:01,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:04,431:get_connected_devices:device list returned
+2021-06-24 15:50:04,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:07,431:get_connected_devices:device list returned
+2021-06-24 15:50:07,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:10,431:get_connected_devices:device list returned
+2021-06-24 15:50:10,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:13,431:get_connected_devices:device list returned
+2021-06-24 15:50:13,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:16,431:get_connected_devices:device list returned
+2021-06-24 15:50:16,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:19,432:get_connected_devices:device list returned
+2021-06-24 15:50:19,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:22,431:get_connected_devices:device list returned
+2021-06-24 15:50:22,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:25,432:get_connected_devices:device list returned
+2021-06-24 15:50:25,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:28,432:get_connected_devices:device list returned
+2021-06-24 15:50:28,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:31,431:get_connected_devices:device list returned
+2021-06-24 15:50:31,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:34,432:get_connected_devices:device list returned
+2021-06-24 15:50:34,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:37,432:get_connected_devices:device list returned
+2021-06-24 15:50:37,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:40,432:get_connected_devices:device list returned
+2021-06-24 15:50:40,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:43,431:get_connected_devices:device list returned
+2021-06-24 15:50:43,436:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:46,437:get_connected_devices:device list returned
+2021-06-24 15:50:46,440:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:49,432:get_connected_devices:device list returned
+2021-06-24 15:50:49,445:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:52,432:get_connected_devices:device list returned
+2021-06-24 15:50:52,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:55,439:get_connected_devices:device list returned
+2021-06-24 15:50:55,442:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:50:58,432:get_connected_devices:device list returned
+2021-06-24 15:50:58,433:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:01,431:get_connected_devices:device list returned
+2021-06-24 15:51:01,432:thread_handler:data sended to su {"sid": "979da7fc56654091bc784f45ae30ad8e", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:04,097:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40618)]
+2021-06-24 15:51:04,098:disconnect_handler:su disconnect msg sended
+2021-06-24 15:51:04,099:thread_handler:thread removed [None]
+2021-06-24 15:51:05,189:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 40614)]
+2021-06-24 15:51:05,190:disconnect_handler:disconnect msg sended to 6
+2021-06-24 15:51:05,191:thread_handler:thread removed [6]
+2021-06-24 15:51:14,116:__main__:new user ('127.0.0.1', 40638) Connected
+2021-06-24 15:51:14,216:_cmd_.cmd_func:password found [id: 6]
+2021-06-24 15:51:20,922:__main__:new user ('127.0.0.1', 40642) Connected
+2021-06-24 15:51:20,923:thread_handler:user name SU set success
+2021-06-24 15:51:23,513:get_connected_devices:device list returned
+2021-06-24 15:51:23,514:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:23,518:get_connected_devices:device list returned
+2021-06-24 15:51:23,519:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:23,520:get_connected_devices:device list returned
+2021-06-24 15:51:23,521:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:23,521:get_connected_devices:device list returned
+2021-06-24 15:51:23,522:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:23,523:get_connected_devices:device list returned
+2021-06-24 15:51:23,524:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:23,524:get_connected_devices:device list returned
+2021-06-24 15:51:23,525:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:23,526:get_connected_devices:device list returned
+2021-06-24 15:51:23,526:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:24,976:get_connected_devices:device list returned
+2021-06-24 15:51:25,030:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:28,431:get_connected_devices:device list returned
+2021-06-24 15:51:28,432:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:31,431:get_connected_devices:device list returned
+2021-06-24 15:51:31,432:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:33,789:get_connected_devices:device list returned
+2021-06-24 15:51:33,853:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:37,432:get_connected_devices:device list returned
+2021-06-24 15:51:37,438:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:40,431:get_connected_devices:device list returned
+2021-06-24 15:51:40,432:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:43,431:get_connected_devices:device list returned
+2021-06-24 15:51:43,432:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:46,431:get_connected_devices:device list returned
+2021-06-24 15:51:46,432:thread_handler:data sended to su {"sid": "256d138cd5194a97bdff28c7bb2b34cf", "devices": {"Dumidu": "6"}}
+2021-06-24 15:51:47,687:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40642)]
+2021-06-24 15:51:47,694:disconnect_handler:su disconnect msg sended
+2021-06-24 15:51:47,695:thread_handler:thread removed [None]
+2021-06-24 15:52:34,181:__main__:new user ('127.0.0.1', 40654) Connected
+2021-06-24 15:52:34,182:thread_handler:user name SU set success
+2021-06-24 15:52:37,459:get_connected_devices:device list returned
+2021-06-24 15:52:37,461:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,480:get_connected_devices:device list returned
+2021-06-24 15:52:37,482:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,483:get_connected_devices:device list returned
+2021-06-24 15:52:37,484:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,485:get_connected_devices:device list returned
+2021-06-24 15:52:37,485:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,486:get_connected_devices:device list returned
+2021-06-24 15:52:37,487:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,487:get_connected_devices:device list returned
+2021-06-24 15:52:37,506:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,507:get_connected_devices:device list returned
+2021-06-24 15:52:37,508:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,509:get_connected_devices:device list returned
+2021-06-24 15:52:37,512:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,513:get_connected_devices:device list returned
+2021-06-24 15:52:37,516:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,517:get_connected_devices:device list returned
+2021-06-24 15:52:37,518:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,518:get_connected_devices:device list returned
+2021-06-24 15:52:37,519:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,520:get_connected_devices:device list returned
+2021-06-24 15:52:37,521:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,524:get_connected_devices:device list returned
+2021-06-24 15:52:37,525:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,527:get_connected_devices:device list returned
+2021-06-24 15:52:37,532:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,533:get_connected_devices:device list returned
+2021-06-24 15:52:37,534:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,534:get_connected_devices:device list returned
+2021-06-24 15:52:37,535:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:37,536:get_connected_devices:device list returned
+2021-06-24 15:52:37,537:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:40,432:get_connected_devices:device list returned
+2021-06-24 15:52:40,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:43,432:get_connected_devices:device list returned
+2021-06-24 15:52:43,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:46,431:get_connected_devices:device list returned
+2021-06-24 15:52:46,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:49,431:get_connected_devices:device list returned
+2021-06-24 15:52:49,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:52,432:get_connected_devices:device list returned
+2021-06-24 15:52:52,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:55,432:get_connected_devices:device list returned
+2021-06-24 15:52:55,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:52:58,433:get_connected_devices:device list returned
+2021-06-24 15:52:58,434:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:01,432:get_connected_devices:device list returned
+2021-06-24 15:53:01,434:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:04,431:get_connected_devices:device list returned
+2021-06-24 15:53:04,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:07,431:get_connected_devices:device list returned
+2021-06-24 15:53:07,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:10,431:get_connected_devices:device list returned
+2021-06-24 15:53:10,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:13,431:get_connected_devices:device list returned
+2021-06-24 15:53:13,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:16,432:get_connected_devices:device list returned
+2021-06-24 15:53:16,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:19,432:get_connected_devices:device list returned
+2021-06-24 15:53:19,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:22,431:get_connected_devices:device list returned
+2021-06-24 15:53:22,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:25,431:get_connected_devices:device list returned
+2021-06-24 15:53:25,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:28,431:get_connected_devices:device list returned
+2021-06-24 15:53:28,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:31,432:get_connected_devices:device list returned
+2021-06-24 15:53:31,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:34,431:get_connected_devices:device list returned
+2021-06-24 15:53:34,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:37,432:get_connected_devices:device list returned
+2021-06-24 15:53:37,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:40,432:get_connected_devices:device list returned
+2021-06-24 15:53:40,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:43,431:get_connected_devices:device list returned
+2021-06-24 15:53:43,431:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:46,432:get_connected_devices:device list returned
+2021-06-24 15:53:46,433:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:49,431:get_connected_devices:device list returned
+2021-06-24 15:53:49,432:thread_handler:data sended to su {"sid": "f52766ace1cc448d97e3757f27d17f73", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:51,426:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40654)]
+2021-06-24 15:53:51,427:disconnect_handler:su disconnect msg sended
+2021-06-24 15:53:51,428:thread_handler:thread removed [None]
+2021-06-24 15:53:57,331:__main__:new user ('127.0.0.1', 40668) Connected
+2021-06-24 15:53:57,332:thread_handler:user name SU set success
+2021-06-24 15:53:57,456:get_connected_devices:device list returned
+2021-06-24 15:53:57,457:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:57,477:get_connected_devices:device list returned
+2021-06-24 15:53:57,478:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:53:58,432:get_connected_devices:device list returned
+2021-06-24 15:53:58,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:01,432:get_connected_devices:device list returned
+2021-06-24 15:54:01,433:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:04,431:get_connected_devices:device list returned
+2021-06-24 15:54:04,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:07,432:get_connected_devices:device list returned
+2021-06-24 15:54:07,433:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:10,431:get_connected_devices:device list returned
+2021-06-24 15:54:10,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:13,431:get_connected_devices:device list returned
+2021-06-24 15:54:13,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:16,431:get_connected_devices:device list returned
+2021-06-24 15:54:16,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:19,431:get_connected_devices:device list returned
+2021-06-24 15:54:19,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:22,432:get_connected_devices:device list returned
+2021-06-24 15:54:22,433:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:25,432:get_connected_devices:device list returned
+2021-06-24 15:54:25,433:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:28,433:get_connected_devices:device list returned
+2021-06-24 15:54:28,434:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:31,431:get_connected_devices:device list returned
+2021-06-24 15:54:31,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:34,431:get_connected_devices:device list returned
+2021-06-24 15:54:34,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:37,431:get_connected_devices:device list returned
+2021-06-24 15:54:37,432:thread_handler:data sended to su {"sid": "74f00ed67e6c4a47ba143f6421ad5829", "devices": {"Dumidu": "6"}}
+2021-06-24 15:54:39,547:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40668)]
+2021-06-24 15:54:39,549:disconnect_handler:su disconnect msg sended
+2021-06-24 15:54:39,549:thread_handler:thread removed [None]
+2021-06-24 15:54:41,584:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 40638)]
+2021-06-24 15:54:41,586:disconnect_handler:disconnect msg sended to 6
+2021-06-24 15:54:41,586:thread_handler:thread removed [6]
+2021-06-24 15:55:06,676:__main__:new user ('127.0.0.1', 40680) Connected
+2021-06-24 15:55:06,889:_cmd_.cmd_func:password found [id: 6]
+2021-06-24 15:55:10,503:__main__:new user ('127.0.0.1', 40684) Connected
+2021-06-24 15:55:10,504:thread_handler:user name SU set success
+2021-06-24 15:55:14,467:get_connected_devices:device list returned
+2021-06-24 15:55:14,468:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,475:get_connected_devices:device list returned
+2021-06-24 15:55:14,476:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,477:get_connected_devices:device list returned
+2021-06-24 15:55:14,477:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,478:get_connected_devices:device list returned
+2021-06-24 15:55:14,479:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,480:get_connected_devices:device list returned
+2021-06-24 15:55:14,483:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,485:get_connected_devices:device list returned
+2021-06-24 15:55:14,485:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,486:get_connected_devices:device list returned
+2021-06-24 15:55:14,487:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,488:get_connected_devices:device list returned
+2021-06-24 15:55:14,488:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,489:get_connected_devices:device list returned
+2021-06-24 15:55:14,490:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,490:get_connected_devices:device list returned
+2021-06-24 15:55:14,491:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,492:get_connected_devices:device list returned
+2021-06-24 15:55:14,494:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:14,497:get_connected_devices:device list returned
+2021-06-24 15:55:14,502:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:16,432:get_connected_devices:device list returned
+2021-06-24 15:55:16,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:19,431:get_connected_devices:device list returned
+2021-06-24 15:55:19,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:22,431:get_connected_devices:device list returned
+2021-06-24 15:55:22,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:24,468:get_connected_devices:device list returned
+2021-06-24 15:55:24,469:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:27,468:get_connected_devices:device list returned
+2021-06-24 15:55:27,469:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:31,431:get_connected_devices:device list returned
+2021-06-24 15:55:31,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "170f938f1fd94aa0ba7ab91e9ea85ab6"}
+2021-06-24 15:55:33,711:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40684)]
+2021-06-24 15:55:33,715:disconnect_handler:su disconnect msg sended
+2021-06-24 15:55:33,716:thread_handler:thread removed [None]
+2021-06-24 16:04:10,392:__main__:new user ('127.0.0.1', 40722) Connected
+2021-06-24 16:04:10,395:thread_handler:user name SU set success
+2021-06-24 16:04:24,100:get_connected_devices:device list returned
+2021-06-24 16:04:24,102:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:27,104:get_connected_devices:device list returned
+2021-06-24 16:04:27,110:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:30,438:get_connected_devices:device list returned
+2021-06-24 16:04:30,439:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:33,431:get_connected_devices:device list returned
+2021-06-24 16:04:33,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:36,433:get_connected_devices:device list returned
+2021-06-24 16:04:36,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:39,431:get_connected_devices:device list returned
+2021-06-24 16:04:39,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:42,432:get_connected_devices:device list returned
+2021-06-24 16:04:42,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:45,432:get_connected_devices:device list returned
+2021-06-24 16:04:45,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:48,432:get_connected_devices:device list returned
+2021-06-24 16:04:48,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:51,434:get_connected_devices:device list returned
+2021-06-24 16:04:51,439:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:54,098:get_connected_devices:device list returned
+2021-06-24 16:04:54,099:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:04:57,099:get_connected_devices:device list returned
+2021-06-24 16:04:57,101:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:00,433:get_connected_devices:device list returned
+2021-06-24 16:05:00,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:03,431:get_connected_devices:device list returned
+2021-06-24 16:05:03,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:06,444:get_connected_devices:device list returned
+2021-06-24 16:05:06,446:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:09,432:get_connected_devices:device list returned
+2021-06-24 16:05:09,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:12,443:get_connected_devices:device list returned
+2021-06-24 16:05:12,444:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:15,432:get_connected_devices:device list returned
+2021-06-24 16:05:15,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:18,432:get_connected_devices:device list returned
+2021-06-24 16:05:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:21,431:get_connected_devices:device list returned
+2021-06-24 16:05:21,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:24,431:get_connected_devices:device list returned
+2021-06-24 16:05:24,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:27,432:get_connected_devices:device list returned
+2021-06-24 16:05:27,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:30,432:get_connected_devices:device list returned
+2021-06-24 16:05:30,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:33,435:get_connected_devices:device list returned
+2021-06-24 16:05:33,437:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:36,431:get_connected_devices:device list returned
+2021-06-24 16:05:36,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:39,432:get_connected_devices:device list returned
+2021-06-24 16:05:39,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:42,432:get_connected_devices:device list returned
+2021-06-24 16:05:42,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:45,432:get_connected_devices:device list returned
+2021-06-24 16:05:45,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:48,431:get_connected_devices:device list returned
+2021-06-24 16:05:48,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:51,432:get_connected_devices:device list returned
+2021-06-24 16:05:51,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:54,431:get_connected_devices:device list returned
+2021-06-24 16:05:54,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:05:57,431:get_connected_devices:device list returned
+2021-06-24 16:05:57,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:00,611:get_connected_devices:device list returned
+2021-06-24 16:06:00,612:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:03,433:get_connected_devices:device list returned
+2021-06-24 16:06:03,440:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:11,023:get_connected_devices:device list returned
+2021-06-24 16:06:11,024:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:12,432:get_connected_devices:device list returned
+2021-06-24 16:06:12,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:15,432:get_connected_devices:device list returned
+2021-06-24 16:06:15,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:18,432:get_connected_devices:device list returned
+2021-06-24 16:06:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:21,432:get_connected_devices:device list returned
+2021-06-24 16:06:21,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:24,432:get_connected_devices:device list returned
+2021-06-24 16:06:24,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:27,431:get_connected_devices:device list returned
+2021-06-24 16:06:27,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:30,437:get_connected_devices:device list returned
+2021-06-24 16:06:30,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:33,431:get_connected_devices:device list returned
+2021-06-24 16:06:33,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:36,455:get_connected_devices:device list returned
+2021-06-24 16:06:36,464:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:39,452:get_connected_devices:device list returned
+2021-06-24 16:06:39,453:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:42,432:get_connected_devices:device list returned
+2021-06-24 16:06:42,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:45,432:get_connected_devices:device list returned
+2021-06-24 16:06:45,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:48,432:get_connected_devices:device list returned
+2021-06-24 16:06:48,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:51,432:get_connected_devices:device list returned
+2021-06-24 16:06:51,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:54,431:get_connected_devices:device list returned
+2021-06-24 16:06:54,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:06:57,435:get_connected_devices:device list returned
+2021-06-24 16:06:57,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:00,432:get_connected_devices:device list returned
+2021-06-24 16:07:00,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:03,432:get_connected_devices:device list returned
+2021-06-24 16:07:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:06,432:get_connected_devices:device list returned
+2021-06-24 16:07:06,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:09,432:get_connected_devices:device list returned
+2021-06-24 16:07:09,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:12,432:get_connected_devices:device list returned
+2021-06-24 16:07:12,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:15,432:get_connected_devices:device list returned
+2021-06-24 16:07:15,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:18,432:get_connected_devices:device list returned
+2021-06-24 16:07:18,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:21,431:get_connected_devices:device list returned
+2021-06-24 16:07:21,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:24,431:get_connected_devices:device list returned
+2021-06-24 16:07:24,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:27,432:get_connected_devices:device list returned
+2021-06-24 16:07:27,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:30,432:get_connected_devices:device list returned
+2021-06-24 16:07:30,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:33,432:get_connected_devices:device list returned
+2021-06-24 16:07:33,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:36,432:get_connected_devices:device list returned
+2021-06-24 16:07:36,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:39,431:get_connected_devices:device list returned
+2021-06-24 16:07:39,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:42,432:get_connected_devices:device list returned
+2021-06-24 16:07:42,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:45,432:get_connected_devices:device list returned
+2021-06-24 16:07:45,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:48,433:get_connected_devices:device list returned
+2021-06-24 16:07:48,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:51,432:get_connected_devices:device list returned
+2021-06-24 16:07:51,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:54,431:get_connected_devices:device list returned
+2021-06-24 16:07:54,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:07:57,432:get_connected_devices:device list returned
+2021-06-24 16:07:57,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:00,434:get_connected_devices:device list returned
+2021-06-24 16:08:00,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:03,432:get_connected_devices:device list returned
+2021-06-24 16:08:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:06,432:get_connected_devices:device list returned
+2021-06-24 16:08:06,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:09,432:get_connected_devices:device list returned
+2021-06-24 16:08:09,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:12,432:get_connected_devices:device list returned
+2021-06-24 16:08:12,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:15,431:get_connected_devices:device list returned
+2021-06-24 16:08:15,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:18,432:get_connected_devices:device list returned
+2021-06-24 16:08:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:21,431:get_connected_devices:device list returned
+2021-06-24 16:08:21,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:24,432:get_connected_devices:device list returned
+2021-06-24 16:08:24,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:27,432:get_connected_devices:device list returned
+2021-06-24 16:08:27,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:30,433:get_connected_devices:device list returned
+2021-06-24 16:08:30,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:33,432:get_connected_devices:device list returned
+2021-06-24 16:08:33,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:36,432:get_connected_devices:device list returned
+2021-06-24 16:08:36,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:39,431:get_connected_devices:device list returned
+2021-06-24 16:08:39,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:42,431:get_connected_devices:device list returned
+2021-06-24 16:08:42,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:45,431:get_connected_devices:device list returned
+2021-06-24 16:08:45,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:48,431:get_connected_devices:device list returned
+2021-06-24 16:08:48,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:51,431:get_connected_devices:device list returned
+2021-06-24 16:08:51,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:54,433:get_connected_devices:device list returned
+2021-06-24 16:08:54,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:08:57,450:get_connected_devices:device list returned
+2021-06-24 16:08:57,451:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:00,431:get_connected_devices:device list returned
+2021-06-24 16:09:00,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:03,439:get_connected_devices:device list returned
+2021-06-24 16:09:03,441:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:06,434:get_connected_devices:device list returned
+2021-06-24 16:09:06,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:09,431:get_connected_devices:device list returned
+2021-06-24 16:09:09,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:12,431:get_connected_devices:device list returned
+2021-06-24 16:09:12,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:15,431:get_connected_devices:device list returned
+2021-06-24 16:09:15,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:18,432:get_connected_devices:device list returned
+2021-06-24 16:09:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:21,431:get_connected_devices:device list returned
+2021-06-24 16:09:21,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:24,432:get_connected_devices:device list returned
+2021-06-24 16:09:24,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:27,431:get_connected_devices:device list returned
+2021-06-24 16:09:27,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:30,432:get_connected_devices:device list returned
+2021-06-24 16:09:30,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:33,432:get_connected_devices:device list returned
+2021-06-24 16:09:33,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:36,432:get_connected_devices:device list returned
+2021-06-24 16:09:36,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:39,431:get_connected_devices:device list returned
+2021-06-24 16:09:39,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:42,432:get_connected_devices:device list returned
+2021-06-24 16:09:42,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:45,432:get_connected_devices:device list returned
+2021-06-24 16:09:45,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:48,432:get_connected_devices:device list returned
+2021-06-24 16:09:48,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:51,443:get_connected_devices:device list returned
+2021-06-24 16:09:51,444:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:54,431:get_connected_devices:device list returned
+2021-06-24 16:09:54,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:09:57,432:get_connected_devices:device list returned
+2021-06-24 16:09:57,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:00,431:get_connected_devices:device list returned
+2021-06-24 16:10:00,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:03,432:get_connected_devices:device list returned
+2021-06-24 16:10:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:06,436:get_connected_devices:device list returned
+2021-06-24 16:10:06,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:09,432:get_connected_devices:device list returned
+2021-06-24 16:10:09,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:12,441:get_connected_devices:device list returned
+2021-06-24 16:10:12,442:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:15,431:get_connected_devices:device list returned
+2021-06-24 16:10:15,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:18,436:get_connected_devices:device list returned
+2021-06-24 16:10:18,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:21,437:get_connected_devices:device list returned
+2021-06-24 16:10:21,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:24,434:get_connected_devices:device list returned
+2021-06-24 16:10:24,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:27,432:get_connected_devices:device list returned
+2021-06-24 16:10:27,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:30,432:get_connected_devices:device list returned
+2021-06-24 16:10:30,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:33,441:get_connected_devices:device list returned
+2021-06-24 16:10:33,442:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:36,433:get_connected_devices:device list returned
+2021-06-24 16:10:36,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:39,433:get_connected_devices:device list returned
+2021-06-24 16:10:39,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:42,432:get_connected_devices:device list returned
+2021-06-24 16:10:42,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:45,431:get_connected_devices:device list returned
+2021-06-24 16:10:45,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:48,432:get_connected_devices:device list returned
+2021-06-24 16:10:48,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:51,432:get_connected_devices:device list returned
+2021-06-24 16:10:51,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:54,433:get_connected_devices:device list returned
+2021-06-24 16:10:54,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:10:57,431:get_connected_devices:device list returned
+2021-06-24 16:10:57,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:11:00,432:get_connected_devices:device list returned
+2021-06-24 16:11:00,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:11:21,436:get_connected_devices:device list returned
+2021-06-24 16:11:21,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "f350d85a4c824b2a8754cdabc3a4c4d9"}
+2021-06-24 16:12:01,440:get_connected_devices:device list returned
+2021-06-24 16:12:01,441:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:04,371:get_connected_devices:device list returned
+2021-06-24 16:12:04,443:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:07,304:get_connected_devices:device list returned
+2021-06-24 16:12:07,305:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:10,433:get_connected_devices:device list returned
+2021-06-24 16:12:10,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:13,431:get_connected_devices:device list returned
+2021-06-24 16:12:13,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:16,432:get_connected_devices:device list returned
+2021-06-24 16:12:16,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:19,432:get_connected_devices:device list returned
+2021-06-24 16:12:19,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:22,432:get_connected_devices:device list returned
+2021-06-24 16:12:22,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:25,432:get_connected_devices:device list returned
+2021-06-24 16:12:25,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:28,432:get_connected_devices:device list returned
+2021-06-24 16:12:28,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:31,431:get_connected_devices:device list returned
+2021-06-24 16:12:31,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:34,434:get_connected_devices:device list returned
+2021-06-24 16:12:34,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:37,431:get_connected_devices:device list returned
+2021-06-24 16:12:37,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:40,431:get_connected_devices:device list returned
+2021-06-24 16:12:40,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:43,431:get_connected_devices:device list returned
+2021-06-24 16:12:43,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:46,431:get_connected_devices:device list returned
+2021-06-24 16:12:46,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:49,451:get_connected_devices:device list returned
+2021-06-24 16:12:49,455:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:52,433:get_connected_devices:device list returned
+2021-06-24 16:12:52,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:55,433:get_connected_devices:device list returned
+2021-06-24 16:12:55,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:12:58,432:get_connected_devices:device list returned
+2021-06-24 16:12:58,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:13:01,432:get_connected_devices:device list returned
+2021-06-24 16:13:01,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:13:04,431:get_connected_devices:device list returned
+2021-06-24 16:13:04,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "ff4b4c49444447afae6e0014b4c0daeb"}
+2021-06-24 16:13:10,153:get_connected_devices:device list returned
+2021-06-24 16:13:10,154:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:13,153:get_connected_devices:device list returned
+2021-06-24 16:13:13,153:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:16,432:get_connected_devices:device list returned
+2021-06-24 16:13:16,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:19,431:get_connected_devices:device list returned
+2021-06-24 16:13:19,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:22,432:get_connected_devices:device list returned
+2021-06-24 16:13:22,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:25,432:get_connected_devices:device list returned
+2021-06-24 16:13:25,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:28,431:get_connected_devices:device list returned
+2021-06-24 16:13:28,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:31,432:get_connected_devices:device list returned
+2021-06-24 16:13:31,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:34,432:get_connected_devices:device list returned
+2021-06-24 16:13:34,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:37,431:get_connected_devices:device list returned
+2021-06-24 16:13:37,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:40,431:get_connected_devices:device list returned
+2021-06-24 16:13:40,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:43,432:get_connected_devices:device list returned
+2021-06-24 16:13:43,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:46,431:get_connected_devices:device list returned
+2021-06-24 16:13:46,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:49,432:get_connected_devices:device list returned
+2021-06-24 16:13:49,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:52,431:get_connected_devices:device list returned
+2021-06-24 16:13:52,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:55,432:get_connected_devices:device list returned
+2021-06-24 16:13:55,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:13:58,439:get_connected_devices:device list returned
+2021-06-24 16:13:58,441:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:01,432:get_connected_devices:device list returned
+2021-06-24 16:14:01,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:04,431:get_connected_devices:device list returned
+2021-06-24 16:14:04,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:07,431:get_connected_devices:device list returned
+2021-06-24 16:14:07,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:10,432:get_connected_devices:device list returned
+2021-06-24 16:14:10,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:13,431:get_connected_devices:device list returned
+2021-06-24 16:14:13,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:16,432:get_connected_devices:device list returned
+2021-06-24 16:14:16,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:19,431:get_connected_devices:device list returned
+2021-06-24 16:14:19,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:22,432:get_connected_devices:device list returned
+2021-06-24 16:14:22,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:25,432:get_connected_devices:device list returned
+2021-06-24 16:14:25,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:28,432:get_connected_devices:device list returned
+2021-06-24 16:14:28,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:31,432:get_connected_devices:device list returned
+2021-06-24 16:14:31,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:34,432:get_connected_devices:device list returned
+2021-06-24 16:14:34,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:37,431:get_connected_devices:device list returned
+2021-06-24 16:14:37,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:40,432:get_connected_devices:device list returned
+2021-06-24 16:14:40,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:43,431:get_connected_devices:device list returned
+2021-06-24 16:14:43,431:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:46,431:get_connected_devices:device list returned
+2021-06-24 16:14:46,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:49,432:get_connected_devices:device list returned
+2021-06-24 16:14:49,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:52,432:get_connected_devices:device list returned
+2021-06-24 16:14:52,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:55,432:get_connected_devices:device list returned
+2021-06-24 16:14:55,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:14:58,431:get_connected_devices:device list returned
+2021-06-24 16:14:58,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:01,433:get_connected_devices:device list returned
+2021-06-24 16:15:01,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:04,432:get_connected_devices:device list returned
+2021-06-24 16:15:04,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:07,432:get_connected_devices:device list returned
+2021-06-24 16:15:07,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:10,157:get_connected_devices:device list returned
+2021-06-24 16:15:10,163:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:13,431:get_connected_devices:device list returned
+2021-06-24 16:15:13,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:16,433:get_connected_devices:device list returned
+2021-06-24 16:15:16,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:19,431:get_connected_devices:device list returned
+2021-06-24 16:15:19,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:22,432:get_connected_devices:device list returned
+2021-06-24 16:15:22,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:25,432:get_connected_devices:device list returned
+2021-06-24 16:15:25,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:28,431:get_connected_devices:device list returned
+2021-06-24 16:15:28,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:31,432:get_connected_devices:device list returned
+2021-06-24 16:15:31,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "640946200fb64f83aa53d35850beeacb"}
+2021-06-24 16:15:36,928:get_connected_devices:device list returned
+2021-06-24 16:15:36,929:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:39,923:get_connected_devices:device list returned
+2021-06-24 16:15:39,924:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:42,924:get_connected_devices:device list returned
+2021-06-24 16:15:42,925:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:45,925:get_connected_devices:device list returned
+2021-06-24 16:15:45,925:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:49,431:get_connected_devices:device list returned
+2021-06-24 16:15:49,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:52,431:get_connected_devices:device list returned
+2021-06-24 16:15:52,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:55,431:get_connected_devices:device list returned
+2021-06-24 16:15:55,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:15:58,432:get_connected_devices:device list returned
+2021-06-24 16:15:58,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:01,431:get_connected_devices:device list returned
+2021-06-24 16:16:01,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:04,433:get_connected_devices:device list returned
+2021-06-24 16:16:04,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:07,432:get_connected_devices:device list returned
+2021-06-24 16:16:07,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:10,432:get_connected_devices:device list returned
+2021-06-24 16:16:10,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:13,432:get_connected_devices:device list returned
+2021-06-24 16:16:13,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:16,480:get_connected_devices:device list returned
+2021-06-24 16:16:16,481:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:19,431:get_connected_devices:device list returned
+2021-06-24 16:16:19,431:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:22,431:get_connected_devices:device list returned
+2021-06-24 16:16:22,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:25,443:get_connected_devices:device list returned
+2021-06-24 16:16:25,447:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:28,432:get_connected_devices:device list returned
+2021-06-24 16:16:28,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:31,433:get_connected_devices:device list returned
+2021-06-24 16:16:31,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:34,431:get_connected_devices:device list returned
+2021-06-24 16:16:34,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:37,431:get_connected_devices:device list returned
+2021-06-24 16:16:37,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:40,431:get_connected_devices:device list returned
+2021-06-24 16:16:40,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:43,431:get_connected_devices:device list returned
+2021-06-24 16:16:43,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:46,433:get_connected_devices:device list returned
+2021-06-24 16:16:46,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:49,431:get_connected_devices:device list returned
+2021-06-24 16:16:49,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:52,432:get_connected_devices:device list returned
+2021-06-24 16:16:52,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:55,431:get_connected_devices:device list returned
+2021-06-24 16:16:55,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:16:58,432:get_connected_devices:device list returned
+2021-06-24 16:16:58,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:01,447:get_connected_devices:device list returned
+2021-06-24 16:17:01,458:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:04,432:get_connected_devices:device list returned
+2021-06-24 16:17:04,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:07,432:get_connected_devices:device list returned
+2021-06-24 16:17:07,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:10,431:get_connected_devices:device list returned
+2021-06-24 16:17:10,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:13,431:get_connected_devices:device list returned
+2021-06-24 16:17:13,431:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:16,432:get_connected_devices:device list returned
+2021-06-24 16:17:16,445:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "659c2dbebcf048ff850469aa4cdf3628"}
+2021-06-24 16:17:22,456:get_connected_devices:device list returned
+2021-06-24 16:17:22,458:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:25,456:get_connected_devices:device list returned
+2021-06-24 16:17:25,456:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:29,431:get_connected_devices:device list returned
+2021-06-24 16:17:29,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:32,431:get_connected_devices:device list returned
+2021-06-24 16:17:32,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:35,433:get_connected_devices:device list returned
+2021-06-24 16:17:35,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:38,431:get_connected_devices:device list returned
+2021-06-24 16:17:38,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:41,432:get_connected_devices:device list returned
+2021-06-24 16:17:41,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:44,435:get_connected_devices:device list returned
+2021-06-24 16:17:44,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:47,438:get_connected_devices:device list returned
+2021-06-24 16:17:47,439:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:50,431:get_connected_devices:device list returned
+2021-06-24 16:17:50,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:53,444:get_connected_devices:device list returned
+2021-06-24 16:17:53,446:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:56,432:get_connected_devices:device list returned
+2021-06-24 16:17:56,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:17:59,433:get_connected_devices:device list returned
+2021-06-24 16:17:59,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:02,436:get_connected_devices:device list returned
+2021-06-24 16:18:02,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:05,434:get_connected_devices:device list returned
+2021-06-24 16:18:05,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:08,431:get_connected_devices:device list returned
+2021-06-24 16:18:08,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:11,434:get_connected_devices:device list returned
+2021-06-24 16:18:11,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:14,431:get_connected_devices:device list returned
+2021-06-24 16:18:14,431:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:17,432:get_connected_devices:device list returned
+2021-06-24 16:18:17,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:20,432:get_connected_devices:device list returned
+2021-06-24 16:18:20,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:23,432:get_connected_devices:device list returned
+2021-06-24 16:18:23,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:26,432:get_connected_devices:device list returned
+2021-06-24 16:18:26,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:29,432:get_connected_devices:device list returned
+2021-06-24 16:18:29,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:32,432:get_connected_devices:device list returned
+2021-06-24 16:18:32,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:35,432:get_connected_devices:device list returned
+2021-06-24 16:18:35,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:38,431:get_connected_devices:device list returned
+2021-06-24 16:18:38,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:41,432:get_connected_devices:device list returned
+2021-06-24 16:18:41,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:44,432:get_connected_devices:device list returned
+2021-06-24 16:18:44,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:47,432:get_connected_devices:device list returned
+2021-06-24 16:18:47,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:50,431:get_connected_devices:device list returned
+2021-06-24 16:18:50,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:53,432:get_connected_devices:device list returned
+2021-06-24 16:18:53,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:56,432:get_connected_devices:device list returned
+2021-06-24 16:18:56,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:18:59,431:get_connected_devices:device list returned
+2021-06-24 16:18:59,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:02,431:get_connected_devices:device list returned
+2021-06-24 16:19:02,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:05,433:get_connected_devices:device list returned
+2021-06-24 16:19:05,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:08,432:get_connected_devices:device list returned
+2021-06-24 16:19:08,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:11,432:get_connected_devices:device list returned
+2021-06-24 16:19:11,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:14,432:get_connected_devices:device list returned
+2021-06-24 16:19:14,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:17,436:get_connected_devices:device list returned
+2021-06-24 16:19:17,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:20,431:get_connected_devices:device list returned
+2021-06-24 16:19:20,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:23,432:get_connected_devices:device list returned
+2021-06-24 16:19:23,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:26,432:get_connected_devices:device list returned
+2021-06-24 16:19:26,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:29,436:get_connected_devices:device list returned
+2021-06-24 16:19:29,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "572abd563fb74b81980c541dce4b0697"}
+2021-06-24 16:19:33,324:get_connected_devices:device list returned
+2021-06-24 16:19:33,325:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:36,324:get_connected_devices:device list returned
+2021-06-24 16:19:36,325:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:39,324:get_connected_devices:device list returned
+2021-06-24 16:19:39,325:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:42,324:get_connected_devices:device list returned
+2021-06-24 16:19:42,325:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:45,432:get_connected_devices:device list returned
+2021-06-24 16:19:45,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:48,431:get_connected_devices:device list returned
+2021-06-24 16:19:48,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:51,431:get_connected_devices:device list returned
+2021-06-24 16:19:51,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:54,432:get_connected_devices:device list returned
+2021-06-24 16:19:54,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:19:57,433:get_connected_devices:device list returned
+2021-06-24 16:19:57,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:00,431:get_connected_devices:device list returned
+2021-06-24 16:20:00,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:03,432:get_connected_devices:device list returned
+2021-06-24 16:20:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:06,432:get_connected_devices:device list returned
+2021-06-24 16:20:06,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:09,433:get_connected_devices:device list returned
+2021-06-24 16:20:09,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:12,431:get_connected_devices:device list returned
+2021-06-24 16:20:12,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:15,431:get_connected_devices:device list returned
+2021-06-24 16:20:15,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:18,432:get_connected_devices:device list returned
+2021-06-24 16:20:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:21,438:get_connected_devices:device list returned
+2021-06-24 16:20:21,440:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:24,431:get_connected_devices:device list returned
+2021-06-24 16:20:24,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:27,325:get_connected_devices:device list returned
+2021-06-24 16:20:27,329:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "fc57dda3457e4126ad45b5360c6d7c7f"}
+2021-06-24 16:20:32,213:get_connected_devices:device list returned
+2021-06-24 16:20:32,214:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:35,209:get_connected_devices:device list returned
+2021-06-24 16:20:35,210:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:38,432:get_connected_devices:device list returned
+2021-06-24 16:20:38,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:41,433:get_connected_devices:device list returned
+2021-06-24 16:20:41,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:44,432:get_connected_devices:device list returned
+2021-06-24 16:20:44,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:47,432:get_connected_devices:device list returned
+2021-06-24 16:20:47,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:50,432:get_connected_devices:device list returned
+2021-06-24 16:20:50,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:53,432:get_connected_devices:device list returned
+2021-06-24 16:20:53,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:56,433:get_connected_devices:device list returned
+2021-06-24 16:20:56,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:20:59,210:get_connected_devices:device list returned
+2021-06-24 16:20:59,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:02,210:get_connected_devices:device list returned
+2021-06-24 16:21:02,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:05,209:get_connected_devices:device list returned
+2021-06-24 16:21:05,210:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:08,209:get_connected_devices:device list returned
+2021-06-24 16:21:08,210:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:11,210:get_connected_devices:device list returned
+2021-06-24 16:21:11,210:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:14,210:get_connected_devices:device list returned
+2021-06-24 16:21:14,213:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:17,209:get_connected_devices:device list returned
+2021-06-24 16:21:17,210:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:20,210:get_connected_devices:device list returned
+2021-06-24 16:21:20,210:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:23,210:get_connected_devices:device list returned
+2021-06-24 16:21:23,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:26,210:get_connected_devices:device list returned
+2021-06-24 16:21:26,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:29,210:get_connected_devices:device list returned
+2021-06-24 16:21:29,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:32,211:get_connected_devices:device list returned
+2021-06-24 16:21:32,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:35,210:get_connected_devices:device list returned
+2021-06-24 16:21:35,211:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:38,431:get_connected_devices:device list returned
+2021-06-24 16:21:38,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:41,432:get_connected_devices:device list returned
+2021-06-24 16:21:41,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:44,431:get_connected_devices:device list returned
+2021-06-24 16:21:44,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:47,442:get_connected_devices:device list returned
+2021-06-24 16:21:47,443:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:50,432:get_connected_devices:device list returned
+2021-06-24 16:21:50,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:53,431:get_connected_devices:device list returned
+2021-06-24 16:21:53,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:56,432:get_connected_devices:device list returned
+2021-06-24 16:21:56,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:21:59,431:get_connected_devices:device list returned
+2021-06-24 16:21:59,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:02,432:get_connected_devices:device list returned
+2021-06-24 16:22:02,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:05,431:get_connected_devices:device list returned
+2021-06-24 16:22:05,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:08,433:get_connected_devices:device list returned
+2021-06-24 16:22:08,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:11,432:get_connected_devices:device list returned
+2021-06-24 16:22:11,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:14,432:get_connected_devices:device list returned
+2021-06-24 16:22:14,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:17,434:get_connected_devices:device list returned
+2021-06-24 16:22:17,443:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:20,432:get_connected_devices:device list returned
+2021-06-24 16:22:20,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:23,432:get_connected_devices:device list returned
+2021-06-24 16:22:23,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:26,433:get_connected_devices:device list returned
+2021-06-24 16:22:26,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:29,432:get_connected_devices:device list returned
+2021-06-24 16:22:29,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:32,431:get_connected_devices:device list returned
+2021-06-24 16:22:32,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:35,432:get_connected_devices:device list returned
+2021-06-24 16:22:35,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:38,452:get_connected_devices:device list returned
+2021-06-24 16:22:38,453:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:41,435:get_connected_devices:device list returned
+2021-06-24 16:22:41,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:44,431:get_connected_devices:device list returned
+2021-06-24 16:22:44,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:47,432:get_connected_devices:device list returned
+2021-06-24 16:22:47,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:50,431:get_connected_devices:device list returned
+2021-06-24 16:22:50,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:53,431:get_connected_devices:device list returned
+2021-06-24 16:22:53,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "31761a7f746e45d6a3f656144a1b84f0"}
+2021-06-24 16:22:58,365:get_connected_devices:device list returned
+2021-06-24 16:22:58,366:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:01,365:get_connected_devices:device list returned
+2021-06-24 16:23:01,366:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:04,431:get_connected_devices:device list returned
+2021-06-24 16:23:04,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:07,432:get_connected_devices:device list returned
+2021-06-24 16:23:07,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:10,433:get_connected_devices:device list returned
+2021-06-24 16:23:10,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:13,363:get_connected_devices:device list returned
+2021-06-24 16:23:13,364:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:16,364:get_connected_devices:device list returned
+2021-06-24 16:23:16,365:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:19,365:get_connected_devices:device list returned
+2021-06-24 16:23:19,366:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:22,364:get_connected_devices:device list returned
+2021-06-24 16:23:22,365:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:25,364:get_connected_devices:device list returned
+2021-06-24 16:23:25,365:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:28,432:get_connected_devices:device list returned
+2021-06-24 16:23:28,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:31,434:get_connected_devices:device list returned
+2021-06-24 16:23:31,438:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:34,432:get_connected_devices:device list returned
+2021-06-24 16:23:34,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:37,431:get_connected_devices:device list returned
+2021-06-24 16:23:37,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:40,432:get_connected_devices:device list returned
+2021-06-24 16:23:40,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:43,432:get_connected_devices:device list returned
+2021-06-24 16:23:43,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:46,435:get_connected_devices:device list returned
+2021-06-24 16:23:46,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:49,431:get_connected_devices:device list returned
+2021-06-24 16:23:49,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:52,434:get_connected_devices:device list returned
+2021-06-24 16:23:52,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "1f1edef44eab4eeeae9399da7387f2bb"}
+2021-06-24 16:23:56,826:get_connected_devices:device list returned
+2021-06-24 16:23:56,827:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:00,432:get_connected_devices:device list returned
+2021-06-24 16:24:00,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:03,431:get_connected_devices:device list returned
+2021-06-24 16:24:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:06,431:get_connected_devices:device list returned
+2021-06-24 16:24:06,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:09,431:get_connected_devices:device list returned
+2021-06-24 16:24:09,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:11,825:get_connected_devices:device list returned
+2021-06-24 16:24:11,825:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:15,431:get_connected_devices:device list returned
+2021-06-24 16:24:15,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:18,432:get_connected_devices:device list returned
+2021-06-24 16:24:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:21,433:get_connected_devices:device list returned
+2021-06-24 16:24:21,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:24,432:get_connected_devices:device list returned
+2021-06-24 16:24:24,439:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:27,432:get_connected_devices:device list returned
+2021-06-24 16:24:27,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:30,431:get_connected_devices:device list returned
+2021-06-24 16:24:30,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:33,433:get_connected_devices:device list returned
+2021-06-24 16:24:33,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:36,431:get_connected_devices:device list returned
+2021-06-24 16:24:36,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:39,431:get_connected_devices:device list returned
+2021-06-24 16:24:39,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:42,431:get_connected_devices:device list returned
+2021-06-24 16:24:42,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:45,442:get_connected_devices:device list returned
+2021-06-24 16:24:45,445:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:48,432:get_connected_devices:device list returned
+2021-06-24 16:24:48,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:51,431:get_connected_devices:device list returned
+2021-06-24 16:24:51,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:53,826:get_connected_devices:device list returned
+2021-06-24 16:24:53,827:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:24:56,825:get_connected_devices:device list returned
+2021-06-24 16:24:56,826:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "e0e6a10b7760441a8b670d4619343357"}
+2021-06-24 16:25:00,144:get_connected_devices:device list returned
+2021-06-24 16:25:00,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:03,143:get_connected_devices:device list returned
+2021-06-24 16:25:03,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:06,144:get_connected_devices:device list returned
+2021-06-24 16:25:06,146:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:09,143:get_connected_devices:device list returned
+2021-06-24 16:25:09,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:12,143:get_connected_devices:device list returned
+2021-06-24 16:25:12,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:15,144:get_connected_devices:device list returned
+2021-06-24 16:25:15,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:18,143:get_connected_devices:device list returned
+2021-06-24 16:25:18,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:21,143:get_connected_devices:device list returned
+2021-06-24 16:25:21,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:24,143:get_connected_devices:device list returned
+2021-06-24 16:25:24,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:27,145:get_connected_devices:device list returned
+2021-06-24 16:25:27,146:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:30,144:get_connected_devices:device list returned
+2021-06-24 16:25:30,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:33,143:get_connected_devices:device list returned
+2021-06-24 16:25:33,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:36,143:get_connected_devices:device list returned
+2021-06-24 16:25:36,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:39,144:get_connected_devices:device list returned
+2021-06-24 16:25:39,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:42,143:get_connected_devices:device list returned
+2021-06-24 16:25:42,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:45,143:get_connected_devices:device list returned
+2021-06-24 16:25:45,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:48,143:get_connected_devices:device list returned
+2021-06-24 16:25:48,147:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:51,144:get_connected_devices:device list returned
+2021-06-24 16:25:51,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:54,144:get_connected_devices:device list returned
+2021-06-24 16:25:54,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:25:57,144:get_connected_devices:device list returned
+2021-06-24 16:25:57,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:00,144:get_connected_devices:device list returned
+2021-06-24 16:26:00,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:03,143:get_connected_devices:device list returned
+2021-06-24 16:26:03,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:06,143:get_connected_devices:device list returned
+2021-06-24 16:26:06,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:09,145:get_connected_devices:device list returned
+2021-06-24 16:26:09,146:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:12,142:get_connected_devices:device list returned
+2021-06-24 16:26:12,143:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:15,143:get_connected_devices:device list returned
+2021-06-24 16:26:15,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:18,144:get_connected_devices:device list returned
+2021-06-24 16:26:18,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:21,144:get_connected_devices:device list returned
+2021-06-24 16:26:21,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:24,143:get_connected_devices:device list returned
+2021-06-24 16:26:24,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:27,143:get_connected_devices:device list returned
+2021-06-24 16:26:27,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:30,143:get_connected_devices:device list returned
+2021-06-24 16:26:30,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:33,144:get_connected_devices:device list returned
+2021-06-24 16:26:33,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:36,144:get_connected_devices:device list returned
+2021-06-24 16:26:36,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:39,144:get_connected_devices:device list returned
+2021-06-24 16:26:39,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:42,143:get_connected_devices:device list returned
+2021-06-24 16:26:42,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:45,143:get_connected_devices:device list returned
+2021-06-24 16:26:45,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:48,143:get_connected_devices:device list returned
+2021-06-24 16:26:48,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:51,143:get_connected_devices:device list returned
+2021-06-24 16:26:51,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:54,143:get_connected_devices:device list returned
+2021-06-24 16:26:54,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:26:57,144:get_connected_devices:device list returned
+2021-06-24 16:26:57,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:00,143:get_connected_devices:device list returned
+2021-06-24 16:27:00,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:03,143:get_connected_devices:device list returned
+2021-06-24 16:27:03,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:06,145:get_connected_devices:device list returned
+2021-06-24 16:27:06,146:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:09,144:get_connected_devices:device list returned
+2021-06-24 16:27:09,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:12,143:get_connected_devices:device list returned
+2021-06-24 16:27:12,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:15,143:get_connected_devices:device list returned
+2021-06-24 16:27:15,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:18,143:get_connected_devices:device list returned
+2021-06-24 16:27:18,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:21,143:get_connected_devices:device list returned
+2021-06-24 16:27:21,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:24,144:get_connected_devices:device list returned
+2021-06-24 16:27:24,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:27,143:get_connected_devices:device list returned
+2021-06-24 16:27:27,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:30,143:get_connected_devices:device list returned
+2021-06-24 16:27:30,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:33,143:get_connected_devices:device list returned
+2021-06-24 16:27:33,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:36,143:get_connected_devices:device list returned
+2021-06-24 16:27:36,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:39,143:get_connected_devices:device list returned
+2021-06-24 16:27:39,143:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:42,143:get_connected_devices:device list returned
+2021-06-24 16:27:42,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:45,143:get_connected_devices:device list returned
+2021-06-24 16:27:45,143:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:48,144:get_connected_devices:device list returned
+2021-06-24 16:27:48,146:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:51,144:get_connected_devices:device list returned
+2021-06-24 16:27:51,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:54,143:get_connected_devices:device list returned
+2021-06-24 16:27:54,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:27:57,143:get_connected_devices:device list returned
+2021-06-24 16:27:57,143:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:00,431:get_connected_devices:device list returned
+2021-06-24 16:28:00,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:03,432:get_connected_devices:device list returned
+2021-06-24 16:28:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:06,432:get_connected_devices:device list returned
+2021-06-24 16:28:06,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:09,434:get_connected_devices:device list returned
+2021-06-24 16:28:09,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:12,432:get_connected_devices:device list returned
+2021-06-24 16:28:12,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:15,432:get_connected_devices:device list returned
+2021-06-24 16:28:15,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:17,078:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 40680)]
+2021-06-24 16:28:17,079:disconnect_handler:disconnect msg sended to 6
+2021-06-24 16:28:17,080:thread_handler:thread removed [6]
+2021-06-24 16:28:18,431:get_connected_devices:device list returned
+2021-06-24 16:28:18,432:thread_handler:data sended to su {"devices": {}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:21,431:get_connected_devices:device list returned
+2021-06-24 16:28:21,432:thread_handler:data sended to su {"devices": {}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:22,050:__main__:new user ('127.0.0.1', 40944) Connected
+2021-06-24 16:28:22,067:_cmd_.cmd_func:password found [id: 6]
+2021-06-24 16:28:24,143:get_connected_devices:device list returned
+2021-06-24 16:28:24,143:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:27,431:get_connected_devices:device list returned
+2021-06-24 16:28:27,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:30,432:get_connected_devices:device list returned
+2021-06-24 16:28:30,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:33,431:get_connected_devices:device list returned
+2021-06-24 16:28:33,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:36,432:get_connected_devices:device list returned
+2021-06-24 16:28:36,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:39,432:get_connected_devices:device list returned
+2021-06-24 16:28:39,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:42,431:get_connected_devices:device list returned
+2021-06-24 16:28:42,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:45,123:__main__:new user ('127.0.0.1', 40946) Connected
+2021-06-24 16:28:45,146:_cmd_.cmd_func:password found [id: 6]
+2021-06-24 16:28:45,431:get_connected_devices:device list returned
+2021-06-24 16:28:45,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:48,431:get_connected_devices:device list returned
+2021-06-24 16:28:48,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:51,143:get_connected_devices:device list returned
+2021-06-24 16:28:51,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:54,144:get_connected_devices:device list returned
+2021-06-24 16:28:54,145:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:28:57,144:get_connected_devices:device list returned
+2021-06-24 16:28:57,144:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:00,432:get_connected_devices:device list returned
+2021-06-24 16:29:00,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:03,432:get_connected_devices:device list returned
+2021-06-24 16:29:03,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:06,431:get_connected_devices:device list returned
+2021-06-24 16:29:06,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:09,028:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 40946)]
+2021-06-24 16:29:09,029:disconnect_handler:disconnect msg sended to 6
+2021-06-24 16:29:09,030:thread_handler:thread removed [6]
+2021-06-24 16:29:09,433:get_connected_devices:device list returned
+2021-06-24 16:29:09,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:12,434:get_connected_devices:device list returned
+2021-06-24 16:29:12,435:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:15,431:get_connected_devices:device list returned
+2021-06-24 16:29:15,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:18,432:get_connected_devices:device list returned
+2021-06-24 16:29:18,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:21,432:get_connected_devices:device list returned
+2021-06-24 16:29:21,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:24,431:get_connected_devices:device list returned
+2021-06-24 16:29:24,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:27,432:get_connected_devices:device list returned
+2021-06-24 16:29:27,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:30,479:get_connected_devices:device list returned
+2021-06-24 16:29:30,481:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:33,434:get_connected_devices:device list returned
+2021-06-24 16:29:33,436:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:36,432:get_connected_devices:device list returned
+2021-06-24 16:29:36,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:39,431:get_connected_devices:device list returned
+2021-06-24 16:29:39,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:42,431:get_connected_devices:device list returned
+2021-06-24 16:29:42,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:45,431:get_connected_devices:device list returned
+2021-06-24 16:29:45,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:48,431:get_connected_devices:device list returned
+2021-06-24 16:29:48,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:51,433:get_connected_devices:device list returned
+2021-06-24 16:29:51,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:54,433:get_connected_devices:device list returned
+2021-06-24 16:29:54,434:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:29:57,432:get_connected_devices:device list returned
+2021-06-24 16:29:57,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:30:00,432:get_connected_devices:device list returned
+2021-06-24 16:30:00,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:30:03,449:get_connected_devices:device list returned
+2021-06-24 16:30:03,451:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:30:06,432:get_connected_devices:device list returned
+2021-06-24 16:30:06,433:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:30:09,431:get_connected_devices:device list returned
+2021-06-24 16:30:09,432:thread_handler:data sended to su {"devices": {"Dumidu": "6"}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:30:11,237:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 40944)]
+2021-06-24 16:30:11,237:disconnect_handler:disconnect msg sended to 6
+2021-06-24 16:30:11,238:thread_handler:thread removed [6]
+2021-06-24 16:30:12,432:get_connected_devices:device list returned
+2021-06-24 16:30:12,433:thread_handler:data sended to su {"devices": {}, "sid": "d59fd5ecf29c4cae822ebb82e9152e11"}
+2021-06-24 16:30:13,610:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40722)]
+2021-06-24 16:30:13,611:disconnect_handler:su disconnect msg sended
+2021-06-24 16:30:13,612:thread_handler:thread removed [None]
+2021-06-24 16:30:19,016:__main__:new user ('127.0.0.1', 40972) Connected
+2021-06-24 16:30:19,148:_cmd_.cmd_func:password found [id: 6]
+2021-06-24 16:30:22,728:__main__:new user ('127.0.0.1', 40974) Connected
+2021-06-24 16:30:22,731:thread_handler:user name SU set success
+2021-06-24 16:30:25,517:get_connected_devices:device list returned
+2021-06-24 16:30:25,518:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:25,528:get_connected_devices:device list returned
+2021-06-24 16:30:25,529:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:25,533:get_connected_devices:device list returned
+2021-06-24 16:30:25,534:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:25,535:get_connected_devices:device list returned
+2021-06-24 16:30:25,535:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:27,143:get_connected_devices:device list returned
+2021-06-24 16:30:27,144:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:30,143:get_connected_devices:device list returned
+2021-06-24 16:30:30,144:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:33,431:get_connected_devices:device list returned
+2021-06-24 16:30:33,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:36,437:get_connected_devices:device list returned
+2021-06-24 16:30:36,438:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:39,431:get_connected_devices:device list returned
+2021-06-24 16:30:39,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:42,433:get_connected_devices:device list returned
+2021-06-24 16:30:42,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "fd8b428ec498465191f3488e9ad5de9c"}
+2021-06-24 16:30:45,926:get_connected_devices:device list returned
+2021-06-24 16:30:45,927:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:30:48,925:get_connected_devices:device list returned
+2021-06-24 16:30:48,925:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:30:52,444:get_connected_devices:device list returned
+2021-06-24 16:30:52,445:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:30:55,431:get_connected_devices:device list returned
+2021-06-24 16:30:55,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:30:58,431:get_connected_devices:device list returned
+2021-06-24 16:30:58,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:01,431:get_connected_devices:device list returned
+2021-06-24 16:31:01,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:04,432:get_connected_devices:device list returned
+2021-06-24 16:31:04,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:07,432:get_connected_devices:device list returned
+2021-06-24 16:31:07,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:10,431:get_connected_devices:device list returned
+2021-06-24 16:31:10,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:13,432:get_connected_devices:device list returned
+2021-06-24 16:31:13,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:16,432:get_connected_devices:device list returned
+2021-06-24 16:31:16,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:19,431:get_connected_devices:device list returned
+2021-06-24 16:31:19,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:22,435:get_connected_devices:device list returned
+2021-06-24 16:31:22,438:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:25,432:get_connected_devices:device list returned
+2021-06-24 16:31:25,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:28,432:get_connected_devices:device list returned
+2021-06-24 16:31:28,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:31,431:get_connected_devices:device list returned
+2021-06-24 16:31:31,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:34,433:get_connected_devices:device list returned
+2021-06-24 16:31:34,434:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:37,432:get_connected_devices:device list returned
+2021-06-24 16:31:37,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:40,431:get_connected_devices:device list returned
+2021-06-24 16:31:40,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:43,431:get_connected_devices:device list returned
+2021-06-24 16:31:43,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:46,432:get_connected_devices:device list returned
+2021-06-24 16:31:46,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:49,431:get_connected_devices:device list returned
+2021-06-24 16:31:49,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:52,431:get_connected_devices:device list returned
+2021-06-24 16:31:52,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:55,432:get_connected_devices:device list returned
+2021-06-24 16:31:55,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:31:58,432:get_connected_devices:device list returned
+2021-06-24 16:31:58,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:01,432:get_connected_devices:device list returned
+2021-06-24 16:32:01,436:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:04,432:get_connected_devices:device list returned
+2021-06-24 16:32:04,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:07,432:get_connected_devices:device list returned
+2021-06-24 16:32:07,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:10,433:get_connected_devices:device list returned
+2021-06-24 16:32:10,435:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:13,431:get_connected_devices:device list returned
+2021-06-24 16:32:13,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:16,431:get_connected_devices:device list returned
+2021-06-24 16:32:16,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:19,431:get_connected_devices:device list returned
+2021-06-24 16:32:19,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:22,432:get_connected_devices:device list returned
+2021-06-24 16:32:22,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:25,432:get_connected_devices:device list returned
+2021-06-24 16:32:25,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:28,432:get_connected_devices:device list returned
+2021-06-24 16:32:28,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:31,433:get_connected_devices:device list returned
+2021-06-24 16:32:31,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:34,432:get_connected_devices:device list returned
+2021-06-24 16:32:34,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:37,433:get_connected_devices:device list returned
+2021-06-24 16:32:37,434:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:40,432:get_connected_devices:device list returned
+2021-06-24 16:32:40,434:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:43,432:get_connected_devices:device list returned
+2021-06-24 16:32:43,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:46,432:get_connected_devices:device list returned
+2021-06-24 16:32:46,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:49,432:get_connected_devices:device list returned
+2021-06-24 16:32:49,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:52,444:get_connected_devices:device list returned
+2021-06-24 16:32:52,446:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:55,432:get_connected_devices:device list returned
+2021-06-24 16:32:55,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:32:58,193:get_connected_devices:device list returned
+2021-06-24 16:32:58,242:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "eff409a6a168464598f1f4618d5917cf"}
+2021-06-24 16:33:02,369:get_connected_devices:device list returned
+2021-06-24 16:33:02,370:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:05,368:get_connected_devices:device list returned
+2021-06-24 16:33:05,368:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:08,368:get_connected_devices:device list returned
+2021-06-24 16:33:08,369:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:11,432:get_connected_devices:device list returned
+2021-06-24 16:33:11,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:14,368:get_connected_devices:device list returned
+2021-06-24 16:33:14,368:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:17,432:get_connected_devices:device list returned
+2021-06-24 16:33:17,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:20,383:get_connected_devices:device list returned
+2021-06-24 16:33:20,384:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:23,368:get_connected_devices:device list returned
+2021-06-24 16:33:23,368:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:26,367:get_connected_devices:device list returned
+2021-06-24 16:33:26,368:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:29,369:get_connected_devices:device list returned
+2021-06-24 16:33:29,370:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:32,469:get_connected_devices:device list returned
+2021-06-24 16:33:32,472:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:35,434:get_connected_devices:device list returned
+2021-06-24 16:33:35,435:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:38,431:get_connected_devices:device list returned
+2021-06-24 16:33:38,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:41,443:get_connected_devices:device list returned
+2021-06-24 16:33:41,445:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:44,432:get_connected_devices:device list returned
+2021-06-24 16:33:44,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:47,432:get_connected_devices:device list returned
+2021-06-24 16:33:47,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:50,452:get_connected_devices:device list returned
+2021-06-24 16:33:50,454:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ccad73206e174be8a9d329ed463238a0"}
+2021-06-24 16:33:54,691:get_connected_devices:device list returned
+2021-06-24 16:33:54,692:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:33:57,695:get_connected_devices:device list returned
+2021-06-24 16:33:57,697:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:00,696:get_connected_devices:device list returned
+2021-06-24 16:34:00,699:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:03,693:get_connected_devices:device list returned
+2021-06-24 16:34:03,694:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:06,700:get_connected_devices:device list returned
+2021-06-24 16:34:06,702:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:09,694:get_connected_devices:device list returned
+2021-06-24 16:34:09,697:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:12,693:get_connected_devices:device list returned
+2021-06-24 16:34:12,696:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:15,697:get_connected_devices:device list returned
+2021-06-24 16:34:15,701:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:19,432:get_connected_devices:device list returned
+2021-06-24 16:34:19,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:22,431:get_connected_devices:device list returned
+2021-06-24 16:34:22,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:25,432:get_connected_devices:device list returned
+2021-06-24 16:34:25,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:28,431:get_connected_devices:device list returned
+2021-06-24 16:34:28,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:31,431:get_connected_devices:device list returned
+2021-06-24 16:34:31,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:34,431:get_connected_devices:device list returned
+2021-06-24 16:34:34,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:37,432:get_connected_devices:device list returned
+2021-06-24 16:34:37,435:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:40,432:get_connected_devices:device list returned
+2021-06-24 16:34:40,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:43,431:get_connected_devices:device list returned
+2021-06-24 16:34:43,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:46,432:get_connected_devices:device list returned
+2021-06-24 16:34:46,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0081286eea42429a9cbe405bdf0ea8ae"}
+2021-06-24 16:34:59,036:get_connected_devices:device list returned
+2021-06-24 16:34:59,037:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:35:09,036:get_connected_devices:device list returned
+2021-06-24 16:35:09,037:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:35:19,032:get_connected_devices:device list returned
+2021-06-24 16:35:19,033:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:35:29,033:get_connected_devices:device list returned
+2021-06-24 16:35:29,034:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:35:39,432:get_connected_devices:device list returned
+2021-06-24 16:35:39,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:35:49,431:get_connected_devices:device list returned
+2021-06-24 16:35:49,432:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:35:59,432:get_connected_devices:device list returned
+2021-06-24 16:35:59,433:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0d2ff2196e164a35a07bb9262e9b1ea4"}
+2021-06-24 16:36:12,634:get_connected_devices:device list returned
+2021-06-24 16:36:12,634:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "1c873c26849145f1b912e3524bc0dbd9"}
+2021-06-24 16:36:22,631:get_connected_devices:device list returned
+2021-06-24 16:36:22,632:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "1c873c26849145f1b912e3524bc0dbd9"}
+2021-06-24 16:36:32,633:get_connected_devices:device list returned
+2021-06-24 16:36:32,634:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "1c873c26849145f1b912e3524bc0dbd9"}
+2021-06-24 16:36:52,845:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 40974)]
+2021-06-24 16:36:52,846:disconnect_handler:su disconnect msg sended
+2021-06-24 16:36:52,846:thread_handler:thread removed [None]
+2021-06-24 16:36:54,551:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 40972)]
+2021-06-24 16:36:54,552:disconnect_handler:disconnect msg sended to 6
+2021-06-24 16:36:54,554:thread_handler:thread removed [6]
+2021-06-25 14:23:23,030:__main__:new user ('127.0.0.1', 58774) Connected
+2021-06-25 14:23:23,258:_cmd_.cmd_func:password found [id: 6]
+2021-06-25 14:24:02,354:__main__:new user ('127.0.0.1', 58776) Connected
+2021-06-25 14:24:02,356:thread_handler:user name SU set success
+2021-06-25 14:26:42,456:get_connected_devices:device list returned
+2021-06-25 14:26:42,458:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ede2e00d14c541f7b93772ba67acd4fd"}
+2021-06-25 14:26:52,418:get_connected_devices:device list returned
+2021-06-25 14:26:52,419:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ede2e00d14c541f7b93772ba67acd4fd"}
+2021-06-25 14:27:02,418:get_connected_devices:device list returned
+2021-06-25 14:27:02,420:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "ede2e00d14c541f7b93772ba67acd4fd"}
+2021-06-25 14:27:14,358:get_connected_devices:device list returned
+2021-06-25 14:27:14,360:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:27:25,094:get_connected_devices:device list returned
+2021-06-25 14:27:25,095:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:27:35,096:get_connected_devices:device list returned
+2021-06-25 14:27:35,097:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:27:45,095:get_connected_devices:device list returned
+2021-06-25 14:27:45,096:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:27:55,095:get_connected_devices:device list returned
+2021-06-25 14:27:55,096:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:28:05,095:get_connected_devices:device list returned
+2021-06-25 14:28:05,097:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:28:15,095:get_connected_devices:device list returned
+2021-06-25 14:28:15,096:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:28:25,099:get_connected_devices:device list returned
+2021-06-25 14:28:25,100:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:28:35,097:get_connected_devices:device list returned
+2021-06-25 14:28:35,098:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:28:45,099:get_connected_devices:device list returned
+2021-06-25 14:28:45,102:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "2d108021760941da9bcf55ed2f6d1cc2"}
+2021-06-25 14:28:53,189:get_connected_devices:device list returned
+2021-06-25 14:28:53,190:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "0cdf2f2fe73240178fad46374e5c4d14"}
+2021-06-25 14:29:21,502:get_connected_devices:device list returned
+2021-06-25 14:29:21,544:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "560cba70fad24d1ca0c74bb18bcc5046"}
+2021-06-25 14:29:22,987:get_connected_devices:device list returned
+2021-06-25 14:29:23,099:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "7b1da75710c54de2b156f23568e0d8d0"}
+2021-06-25 14:29:27,935:_cmd_.pty_cmd:sid set failed: [sid:59b1e8b8781d4563bf9953950c57237e, client_id:50]
+2021-06-25 14:29:27,951:thread_handler:data sended to su b'{"password": null, "sid": "59b1e8b8781d4563bf9953950c57237e"}'
+2021-06-25 14:29:27,956:_cmd_.pty_cmd:password sended to [sid: 59b1e8b8781d4563bf9953950c57237e, pass: None]
+2021-06-25 14:29:33,772:get_connected_devices:device list returned
+2021-06-25 14:29:33,773:thread_handler:data sended to su {"devices": {"kasun": 50, "Dumidu": "6"}, "sid": "b86511df6a794750967d2e201f611ece"}
+2021-06-25 14:29:36,463:thread_handler:data sended __connect__|{"user_name": "superuser", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"id": 6}}
+2021-06-25 14:29:36,470:thread_handler:data sended to su b'{"password": "123456", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}'
+2021-06-25 14:29:36,472:_cmd_.pty_cmd:password sended to [sid: 123ee8816aee4dc7b00a3a8f7ad8fe7d, pass: 123456]
+2021-06-25 14:29:36,476:thread_handler:data sended to su {"output": "available terminals {'123ee8816aee4dc7b00a3a8f7ad8fe7d': -1} threads 1\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:36,819:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:40,520:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:40,521:thread_handler:data sended to su {"output": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K \r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:40,531:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:40,651:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:40,652:thread_handler:data sended to su {"output": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K \r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:40,663:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:43,100:thread_handler:data sended __resize__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "resize": {"cols": 76, "rows": 34}}
+2021-06-25 14:29:43,108:thread_handler:data sended to su {"output": "\r\u001b[K\u001b[A\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:43,583:thread_handler:data sended __resize__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "resize": {"cols": 47, "rows": 33}}
+2021-06-25 14:29:43,594:thread_handler:data sended to su {"output": "\r\u001b[K\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ \r\n\r", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:44,856:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:44,857:thread_handler:data sended to su {"output": "\u001b[A\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:44,867:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:45,039:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:45,040:thread_handler:data sended to su {"output": "\r\n\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:47,582:thread_handler:data sended __resize__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "resize": {"cols": 117, "rows": 34}}
+2021-06-25 14:29:47,582:thread_handler:data sended to su {"output": "\r\u001b[K\u001b[A\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:48,556:thread_handler:data sended __resize__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "resize": {"cols": 146, "rows": 35}}
+2021-06-25 14:29:48,557:thread_handler:data sended to su {"output": "\r\u001b[K\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:49,812:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "l"}}
+2021-06-25 14:29:49,814:thread_handler:data sended to su {"output": "l", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:49,859:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "s"}}
+2021-06-25 14:29:49,865:thread_handler:data sended to su {"output": "s", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:50,130:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:50,139:thread_handler:data sended to su {"output": "\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:50,151:thread_handler:data sended to su {"output": "\u001b[0m\u001b[34;42m__pycache__\u001b[0m  \u001b[01;32mclient.py\u001b[0m      \u001b[01;32mconnection_handler.py\u001b[0m  \u001b[34;42mdatabase\u001b[0m         \u001b[01;32mhos.txt\u001b[0m                 \u001b[01;32mp.py\u001b[0m   \u001b[01;32mtest.db\u001b[0m\r\n\u001b[34;42m_cmd_\u001b[0m        \u001b[01;32mconnection.py\u001b[0m  \u001b[01;32mdata_handler.py\u001b[0m        \u001b[01;32mfile_handler.py\u001b[0m  \u001b[01;32mmake_authentication.py\u001b[0m  \u001b[34;42mshell\u001b[0m\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:50,162:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:51,237:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "c"}}
+2021-06-25 14:29:51,247:thread_handler:data sended to su {"output": "c", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:51,316:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "d"}}
+2021-06-25 14:29:51,318:thread_handler:data sended to su {"output": "d", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:51,942:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": " "}}
+2021-06-25 14:29:51,942:thread_handler:data sended to su {"output": " ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:52,130:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "."}}
+2021-06-25 14:29:52,135:thread_handler:data sended to su {"output": ".", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:52,253:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "."}}
+2021-06-25 14:29:52,254:thread_handler:data sended to su {"output": ".", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:52,508:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:52,509:thread_handler:data sended to su {"output": "\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:52,519:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:53,994:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "p"}}
+2021-06-25 14:29:53,995:thread_handler:data sended to su {"output": "p", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:54,085:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "w"}}
+2021-06-25 14:29:54,087:thread_handler:data sended to su {"output": "w", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:54,624:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "d"}}
+2021-06-25 14:29:54,624:thread_handler:data sended to su {"output": "d", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:29:54,696:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:29:54,698:thread_handler:data sended to su {"output": "\r\n/mnt/d/Python/python_socket\r\n\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:04,270:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "s"}}
+2021-06-25 14:30:04,271:thread_handler:data sended to su {"output": "s", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:04,398:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "u"}}
+2021-06-25 14:30:04,403:thread_handler:data sended to su {"output": "u", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:04,513:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "d"}}
+2021-06-25 14:30:04,515:thread_handler:data sended to su {"output": "d", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:04,647:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "o"}}
+2021-06-25 14:30:04,648:thread_handler:data sended to su {"output": "o", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:05,155:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": " "}}
+2021-06-25 14:30:05,165:thread_handler:data sended to su {"output": " ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:05,285:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "s"}}
+2021-06-25 14:30:05,285:thread_handler:data sended to su {"output": "s", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:05,397:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "u"}}
+2021-06-25 14:30:05,398:thread_handler:data sended to su {"output": "u", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:05,873:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:30:05,874:thread_handler:data sended to su {"output": "\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:06,007:thread_handler:data sended to su {"output": "[sudo] password for dumidu: ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:07,953:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "1"}}
+2021-06-25 14:30:08,137:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "2"}}
+2021-06-25 14:30:08,328:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "3"}}
+2021-06-25 14:30:09,405:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "4"}}
+2021-06-25 14:30:09,640:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "5"}}
+2021-06-25 14:30:09,892:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "6"}}
+2021-06-25 14:30:10,330:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:30:10,331:thread_handler:data sended to su {"output": "\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:10,443:thread_handler:data sended to su {"output": "\u001b]0;root@Dumidu: /mnt/d/Python/python_socket\u0007root@Dumidu:/mnt/d/Python/python_socket# ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:11,710:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "e"}}
+2021-06-25 14:30:11,711:thread_handler:data sended to su {"output": "e", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:11,957:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "x"}}
+2021-06-25 14:30:11,964:thread_handler:data sended to su {"output": "x", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:12,131:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "i"}}
+2021-06-25 14:30:12,137:thread_handler:data sended to su {"output": "i", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:12,413:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "t"}}
+2021-06-25 14:30:12,414:thread_handler:data sended to su {"output": "t", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:12,556:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:30:12,566:thread_handler:data sended to su {"output": "\r\nexit\r\n\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket\u001b[00m$ ", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:13,891:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "e"}}
+2021-06-25 14:30:13,893:thread_handler:data sended to su {"output": "e", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:14,162:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "x"}}
+2021-06-25 14:30:14,167:thread_handler:data sended to su {"output": "x", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:14,342:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "i"}}
+2021-06-25 14:30:14,343:thread_handler:data sended to su {"output": "i", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:14,643:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "t"}}
+2021-06-25 14:30:14,643:thread_handler:data sended to su {"output": "t", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:14,737:thread_handler:data sended __pty_input__|{"sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d", "data": {"input": "\r"}}
+2021-06-25 14:30:14,738:thread_handler:data sended to su {"output": "\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:14,748:thread_handler:data sended to su {"output": "exit\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:30:14,758:thread_handler:data sended to su {"output": "Exception in thread Thread-1:\r\nTraceback (most recent call last):\r\n  File \"/usr/lib/python3.8/threading.py\", line 932, in _bootstrap_inner\r\n    self.run()\r\n  File \"/mnt/d/Python/python_socket/client/shell/terminal.py\", line 39, in run\r\n    (data_ready, _, _) = select.select([self.fd], [], [], timeout_sec)\r\nValueError: file descriptor cannot be a negative integer (-1)\r\n", "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:32:13,083:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 58774)]
+2021-06-25 14:32:13,085:disconnect_handler:disconnect msg sended to 6
+2021-06-25 14:32:13,087:thread_handler:data sended to su {"disconnect": true, "sid": "123ee8816aee4dc7b00a3a8f7ad8fe7d"}
+2021-06-25 14:32:13,089:thread_handler:thread removed [6]
+2021-06-25 14:32:14,282:__main__:new user ('127.0.0.1', 58868) Connected
+2021-06-25 14:32:14,299:_cmd_.cmd_func:password found [id: 6]
+2021-06-25 14:32:22,577:thread_handler:data sended __connect__|{"user_name": "superuser", "sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"id": 6}}
+2021-06-25 14:32:22,614:thread_handler:data sended to su {"output": "available terminals {'42add66645e342b6b0c2fd89b29ca946': -1} threads 1\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:22,665:thread_handler:data sended to su b'{"password": "123456", "sid": "42add66645e342b6b0c2fd89b29ca946"}'
+2021-06-25 14:32:22,682:_cmd_.pty_cmd:password sended to [sid: 42add66645e342b6b0c2fd89b29ca946, pass: 123456]
+2021-06-25 14:32:22,737:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:24,487:thread_handler:data sended __resize__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "resize": {"cols": 117, "rows": 33}}
+2021-06-25 14:32:24,487:thread_handler:data sended to su {"output": "\r\u001b[K\u001b[A\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:28,970:thread_handler:data sended __resize__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "resize": {"cols": 118, "rows": 34}}
+2021-06-25 14:32:28,972:thread_handler:data sended to su {"output": "\r\u001b[K\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:29,093:thread_handler:data sended __resize__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "resize": {"cols": 118, "rows": 34}}
+2021-06-25 14:32:29,163:thread_handler:data sended __resize__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "resize": {"cols": 118, "rows": 34}}
+2021-06-25 14:32:30,406:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "\r"}}
+2021-06-25 14:32:30,406:thread_handler:data sended to su {"output": "\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:30,417:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:30,551:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "\r"}}
+2021-06-25 14:32:30,552:thread_handler:data sended to su {"output": "\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:30,562:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:31,748:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "l"}}
+2021-06-25 14:32:31,757:thread_handler:data sended to su {"output": "l", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:31,863:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "s"}}
+2021-06-25 14:32:31,928:thread_handler:data sended to su {"output": "s", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:32,344:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "\r"}}
+2021-06-25 14:32:32,351:thread_handler:data sended to su {"output": "\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:32,369:thread_handler:data sended to su {"output": "\u001b[0m\u001b[34;42m__pycache__\u001b[0m  \u001b[01;32mclient.py\u001b[0m      \u001b[01;32mconnection_handler.py\u001b[0m  \u001b[34;42mdatabase\u001b[0m         \u001b[01;32mhos.txt\u001b[0m                 \u001b[01;32mp.py\u001b[0m   \u001b[01;32mtest.db\u001b[0m\r\n\u001b[34;42m_cmd_\u001b[0m        \u001b[01;32mconnection.py\u001b[0m  \u001b[01;32mdata_handler.py\u001b[0m        \u001b[01;32mfile_handler.py\u001b[0m  \u001b[01;32mmake_authentication.py\u001b[0m  \u001b[34;42mshell\u001b[0m\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:32,380:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:32,970:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "e"}}
+2021-06-25 14:32:32,971:thread_handler:data sended to su {"output": "e", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:33,365:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "x"}}
+2021-06-25 14:32:33,367:thread_handler:data sended to su {"output": "x", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:34,165:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "i"}}
+2021-06-25 14:32:34,166:thread_handler:data sended to su {"output": "i", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:34,592:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "t"}}
+2021-06-25 14:32:34,602:thread_handler:data sended to su {"output": "t", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:34,686:thread_handler:data sended __pty_input__|{"sid": "42add66645e342b6b0c2fd89b29ca946", "data": {"input": "\r"}}
+2021-06-25 14:32:34,693:thread_handler:data sended to su {"output": "\r\nexit\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:34,704:thread_handler:data sended to su {"output": "Exception in thread Thread-1:\r\nTraceback (most recent call last):\r\n  File \"/usr/lib/python3.8/threading.py\", line 932, in _bootstrap_inner\r\n    self.run()\r\n  File \"/mnt/d/Python/python_socket/client/shell/terminal.py\", line 43, in run\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:32:34,714:thread_handler:data sended to su {"output": "    if data_ready:\r\nUnboundLocalError: local variable 'data_ready' referenced before assignment\r\n", "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:34:44,958:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 58868)]
+2021-06-25 14:34:44,959:disconnect_handler:disconnect msg sended to 6
+2021-06-25 14:34:44,963:thread_handler:data sended to su {"disconnect": true, "sid": "42add66645e342b6b0c2fd89b29ca946"}
+2021-06-25 14:34:44,964:thread_handler:thread removed [6]
+2021-06-25 14:34:46,606:__main__:new user ('127.0.0.1', 58890) Connected
+2021-06-25 14:34:46,625:_cmd_.cmd_func:password found [id: 6]
+2021-06-25 14:34:52,006:thread_handler:data sended __connect__|{"user_name": "superuser", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"id": 6}}
+2021-06-25 14:34:52,008:thread_handler:data sended to su b'{"password": "123456", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}'
+2021-06-25 14:34:52,010:_cmd_.pty_cmd:password sended to [sid: b6dbc29d4bd8477ca858a59cfef16f6b, pass: 123456]
+2021-06-25 14:34:52,019:thread_handler:data sended to su {"output": "available terminals {'b6dbc29d4bd8477ca858a59cfef16f6b': -1} threads 1\r\n", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:52,131:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:53,325:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 120, "rows": 34}}
+2021-06-25 14:34:53,326:thread_handler:data sended to su {"output": "\r\u001b[K\u001b[A\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:53,434:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 120, "rows": 34}}
+2021-06-25 14:34:54,601:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "\r"}}
+2021-06-25 14:34:54,602:thread_handler:data sended to su {"output": "\r\n", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:54,612:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:54,735:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "\r"}}
+2021-06-25 14:34:54,744:thread_handler:data sended to su {"output": "\r\n\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:55,435:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "l"}}
+2021-06-25 14:34:55,436:thread_handler:data sended to su {"output": "l", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:55,489:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "s"}}
+2021-06-25 14:34:55,489:thread_handler:data sended to su {"output": "s", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:55,859:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "\r"}}
+2021-06-25 14:34:55,868:thread_handler:data sended to su {"output": "\r\n", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:55,885:thread_handler:data sended to su {"output": "\u001b[0m\u001b[34;42m__pycache__\u001b[0m  \u001b[01;32mclient.py\u001b[0m      \u001b[01;32mconnection_handler.py\u001b[0m  \u001b[34;42mdatabase\u001b[0m         \u001b[01;32mhos.txt\u001b[0m                 \u001b[01;32mp.py\u001b[0m   \u001b[01;32mtest.db\u001b[0m\r\n\u001b[34;42m_cmd_\u001b[0m        \u001b[01;32mconnection.py\u001b[0m  \u001b[01;32mdata_handler.py\u001b[0m        \u001b[01;32mfile_handler.py\u001b[0m  \u001b[01;32mmake_authentication.py\u001b[0m  \u001b[34;42mshell\u001b[0m\r\n", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:55,895:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:57,747:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "e"}}
+2021-06-25 14:34:57,749:thread_handler:data sended to su {"output": "e", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:58,015:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "x"}}
+2021-06-25 14:34:58,023:thread_handler:data sended to su {"output": "x", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:58,148:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "i"}}
+2021-06-25 14:34:58,155:thread_handler:data sended to su {"output": "i", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:58,461:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "t"}}
+2021-06-25 14:34:58,469:thread_handler:data sended to su {"output": "t", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:34:58,574:thread_handler:data sended __pty_input__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "data": {"input": "\r"}}
+2021-06-25 14:34:58,581:thread_handler:data sended to su {"output": "\r\nexit\r\n", "sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:35:05,395:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 111, "rows": 33}}
+2021-06-25 14:35:05,504:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 111, "rows": 34}}
+2021-06-25 14:35:06,516:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 104, "rows": 33}}
+2021-06-25 14:35:06,642:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 103, "rows": 34}}
+2021-06-25 14:35:07,041:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 106, "rows": 34}}
+2021-06-25 14:35:07,159:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 106, "rows": 34}}
+2021-06-25 14:35:07,321:thread_handler:data sended __resize__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b", "resize": {"cols": 111, "rows": 34}}
+2021-06-25 14:35:15,791:thread_handler:data sended __disconnect__|{"sid": "b6dbc29d4bd8477ca858a59cfef16f6b"}
+2021-06-25 14:35:15,793:thread_handler:remove sid
+Traceback (most recent call last):
+  File "/mnt/d/Python/python_socket/server/socket/thread_handler.py", line 51, in remove_sid
+    logger.debug(f"sid [{device.connected_sid[count]}] removed")
+IndexError: list index out of range
+2021-06-25 14:35:17,061:thread_handler:data sended __connect__|{"user_name": "superuser", "sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"id": 6}}
+2021-06-25 14:35:17,062:thread_handler:data sended to su b'{"password": "123456", "sid": "21cbc602153c4088a0ae3acb4785044a"}'
+2021-06-25 14:35:17,068:_cmd_.pty_cmd:password sended to [sid: 21cbc602153c4088a0ae3acb4785044a, pass: 123456]
+2021-06-25 14:35:17,074:thread_handler:data sended to su {"output": "available terminals {'21cbc602153c4088a0ae3acb4785044a': -1} threads 1\r\n", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:17,145:thread_handler:data sended to su {"output": "\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:18,553:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "l"}}
+2021-06-25 14:35:18,555:thread_handler:data sended to su {"output": "l", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:18,626:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "s"}}
+2021-06-25 14:35:18,627:thread_handler:data sended to su {"output": "s", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:19,372:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "\r"}}
+2021-06-25 14:35:19,375:thread_handler:data sended to su {"output": "\r\n", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:19,405:thread_handler:data sended to su {"output": "\u001b[0m\u001b[34;42m__pycache__\u001b[0m            \u001b[01;32mfile_handler.py\u001b[0m\r\n\u001b[34;42m_cmd_\u001b[0m                  \u001b[01;32mhos.txt\u001b[0m\r\n\u001b[01;32mclient.py\u001b[0m              \u001b[01;32mmake_authentication.py\u001b[0m\r\n\u001b[01;32mconnection.py\u001b[0m          \u001b[01;32mp.py\u001b[0m\r\n\u001b[01;32mconnection_handler.py\u001b[0m  \u001b[34;42mshell\u001b[0m\r\n\u001b[01;32mdata_handler.py\u001b[0m        \u001b[01;32mtest.db\u001b[0m\r\n\u001b[34;42mdatabase\u001b[0m\r\n\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$  \r", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:23,094:thread_handler:data sended __resize__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "resize": {"cols": 112, "rows": 34}}
+2021-06-25 14:35:23,104:thread_handler:data sended to su {"output": "\r\u001b[K\u001b[A\u001b]0;dumidu@Dumidu: /mnt/d/Python/python_socket/client\u0007\u001b[01;32mdumidu@Dumidu\u001b[00m:\u001b[01;34m/mnt/d/Python/python_socket/client\u001b[00m$ ", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:23,198:thread_handler:data sended __resize__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "resize": {"cols": 112, "rows": 34}}
+2021-06-25 14:35:24,427:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "e"}}
+2021-06-25 14:35:24,432:thread_handler:data sended to su {"output": "e", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:24,743:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "x"}}
+2021-06-25 14:35:24,746:thread_handler:data sended to su {"output": "x", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:24,883:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "i"}}
+2021-06-25 14:35:24,884:thread_handler:data sended to su {"output": "i", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:25,209:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "t"}}
+2021-06-25 14:35:25,218:thread_handler:data sended to su {"output": "t", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:25,329:thread_handler:data sended __pty_input__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "data": {"input": "\r"}}
+2021-06-25 14:35:25,330:thread_handler:data sended to su {"output": "\r\nexit\r\n", "sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:28,038:thread_handler:data sended __resize__|{"sid": "21cbc602153c4088a0ae3acb4785044a", "resize": {"cols": 110, "rows": 34}}
+2021-06-25 14:35:31,857:thread_handler:data sended __disconnect__|{"sid": "21cbc602153c4088a0ae3acb4785044a"}
+2021-06-25 14:35:31,859:thread_handler:remove sid
+Traceback (most recent call last):
+  File "/mnt/d/Python/python_socket/server/socket/thread_handler.py", line 51, in remove_sid
+    logger.debug(f"sid [{device.connected_sid[count]}] removed")
+IndexError: list index out of range
+2021-06-25 14:35:37,521:main_server_connection:[User 6 Disconnected, ip: ('127.0.0.1', 58890)]
+2021-06-25 14:35:37,522:disconnect_handler:disconnect msg sended to 6
+2021-06-25 14:35:37,525:thread_handler:thread removed [6]
+2021-06-25 14:35:40,077:main_server_connection:[User None Disconnected, ip: ('127.0.0.1', 58776)]
+2021-06-25 14:35:40,078:disconnect_handler:su disconnect msg sended
+2021-06-25 14:35:40,079:thread_handler:thread removed [None]

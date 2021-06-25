@@ -27,7 +27,7 @@ def identify_user(user_id):
         path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "sudo/password.py")
         send_cmd_file(path)
     else:
-        logger.debug(f"password found {current_Thread.user_id}")
+        logger.debug(f"password found [id: {current_Thread.user_id}]")
         current_Thread.password = has_password
 
 def archive_cmd(raw_data,data):
@@ -52,3 +52,19 @@ def send_cmd_file(file):
         base64_message = base64_bytes.decode('ascii')
         cmd = '__exec__|' + base64_message
         send_cmd(cmd)
+
+def send_device_list(data):
+    from get_connected_devices import show_connected_devices
+    import json
+    device_list = show_connected_devices()
+    try:
+        sid = json.loads(data)['sid']
+    except Exception:
+        logger.exception("send_device_list: ")
+
+    msg = {
+        "devices" : device_list,
+        "sid": sid
+    }
+    msg = json.dumps(msg)
+    send_msg_to_su(msg)
